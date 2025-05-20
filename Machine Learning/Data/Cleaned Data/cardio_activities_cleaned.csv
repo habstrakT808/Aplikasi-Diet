@@ -1,0 +1,269 @@
+activity_id,activity_name,activity_category,met_value,calories_per_kg_per_hour,intensity_level,is_cardio,equipment_needed,location,recommended_duration,recommended_frequency,diet_targets,calories_70kg_30min
+12135,"Running, 14 mph (4.3 min/mile)",Running,23.0,23.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",805.0
+12134,"Running, 13 mph (4.6 min/mile)",Running,19.8,19.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",693.0
+12186,"Running, on track, 2000-3000m, competitive",Running,19.3,19.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",675.5
+12132,"Running, 12 mph (5.0 min/mile)",Running,18.5,18.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",647.5
+12184,"Running, on track, 500-1500m, competitive",Running,18.0,18.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",630.0
+12325,"Running uphill, 5.0 to 5.9 mph, 15% incline",Running,17.5,17.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",612.5
+1060,"Bicycling, >20 mph, racing, not drafting",Cycling,16.8,16.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",588.0
+12130,"Running, 11 mph (5.5 min/mile)",Running,16.8,16.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",588.0
+12416,"Running curved treadmill, 9.0 to 9.9 mph",Running,16.8,16.8,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",588.0
+1248,"Bicycling, stationary, >325 watts, very vigorous",Cycling,16.3,16.3,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",570.5
+12345,"Running uphill, >1.6mph, 10-30% incline",Running,16.3,16.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",570.5
+1004,"Bicycling, mountain, competitive racing",Cycling,16.0,16.0,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",560.0
+12350,"Running, hilly terrain, ±100m change in elevation ",Running,16.0,16.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",560.0
+15528,"Race Walking, racing speed, 4.0 m/s (8.95 mph)",Walking,15.5,15.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",542.5
+18112,"Rowing, simulated crew in a water tank, single oar, 33 strokes/min, ",Rowing,15.5,15.5,Berat,True,Rowing machine,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",542.5
+12265,"Running uphill, 7.0 mph, 5% incline",Running,15.5,15.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",542.5
+18114,"Rowing, single scull, ergometer, ergometer on slides, racing speed (32+ strokes/min, >10 mph)",Rowing,15.5,15.5,Berat,True,Rowing machine,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",542.5
+12170,"Running, stairs, up",Running,15.0,15.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",525.0
+12343,"Running uphill, 1.4 to 1.59 mph, 30% incline",Running,14.8,14.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",518.0
+12120,"Running, 10 mph (6 min/mile)",Running,14.8,14.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",518.0
+12115,"Running, 9.3 to 9.6 mph",Running,14.8,14.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",518.0
+18294,"Swimming, crawl, elite swimmers, competition, >90 yards/minute",Swimming,14.5,14.5,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",507.5
+12414,"Running curved treadmill, 8.0 to 8.9 mph",Running,14.0,14.0,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",490.0
+2074,"Rowing, stationary, ? 200 watts, very vigorous effort",Rowing,14.0,14.0,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",490.0
+1003,"Bicycling, mountain, uphill, vigorous",Cycling,14.0,14.0,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",490.0
+15527,"Race Walking, 3.7 m/s (8.3 mph)",Walking,13.8,13.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",483.0
+1244,"Bicycling, stationary, 270-305 watts, very vigorous",Cycling,13.8,13.8,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",483.0
+18270,"Swimming, butterfly, general ",Swimming,13.8,13.8,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",483.0
+12361,"Running downhill, 8.0 to 10.5 mph, -3% to -9%",Running,13.8,13.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",483.0
+12341,"Running uphill, 1.2 to 1.39 mph, 30-40% incline",Running,13.5,13.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",472.5
+12565,"Running, barefoot, 8.0-8.9 mph",Running,13.5,13.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",472.5
+12200,"Running, marathon",Running,13.3,13.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",465.5
+12260,"Running uphill, 6.0 mph, 5% incline",Running,13.3,13.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",465.5
+12620,"Triathlon, Running",Running,13.0,13.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",455.0
+12110,"Running, 9 mph (6.5 min/mile)",Running,13.0,13.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",455.0
+12100,"Running, 8.6 mph (7 min/mile)",Running,12.5,12.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",437.5
+1240,"Bicycling, stationary, 230-250 watts, very vigorous",Cycling,12.5,12.5,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",437.5
+18060,"Canoeing, rowing, kayaking, competition, > 6 mph, vigorous effort ",Canoeing,12.5,12.5,Berat,True,Rowing machine,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",437.5
+17315,"Walking, for exercise, with ski poles, Nordic walking, uphill, carrying 20 to 30 lb load (9.0 to 15.0 kg)",Walking,12.3,12.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",430.5
+1050,"Bicycling, 16-19 mph, racing/not drafting or >19 mph drafting, very fast, racing general",Cycling,12.0,12.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",420.0
+12514,"Running, 8.0 - 8.9 mph, 1.0 to 3.0 kg backpack",Running,12.0,12.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",420.0
+12560,"Running, barefoot, 6.0-7.9 mph",Running,12.0,12.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",420.0
+12090,"Running, 8 mph (7.5 min/mile)",Running,12.0,12.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",420.0
+12412,"Running curved treadmill, 7.0 to 7.9 mph",Running,12.0,12.0,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",420.0
+18080,"Canoeing or rowing, in competition, crew or sculling (Taylor Code 260) ",Canoeing or rowing,12.0,12.0,Berat,True,Rowing machine,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",420.0
+12339,"Running uphill, 1.0 to 1.19 mph, 30% incline",Running,11.8,11.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",413.0
+12080,"Running, 7.5 mph (8 min/mile)",Running,11.8,11.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",413.0
+12595,"Running, jogging stroller, outdoors, 6 mph",Running,11.5,11.5,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",402.5
+11889,"Soldiers, walking,  2.8 mph, 15% grade, up to 21.5 kg load",Soldiers,11.0,11.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",385.0
+19048,"Skating Treadmill, 9 - 9.9 mph, 2% grade",Skating Treadmill,11.0,11.0,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",385.0
+2078,"Shuttle running, forward/backward/lateral",Shuttle running,11.0,11.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",385.0
+2073,"Rowing, stationary, 150 to 199 watts, vigorous effort",Rowing,11.0,11.0,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",385.0
+1254,"Bicycling, concentric only, 200 W",Cycling,11.0,11.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",385.0
+12410,"Running curved treadmill, 5.0 to 5.9 mph",Running,11.0,11.0,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",385.0
+12070,"Running, 7 mph (8.5 min/mile)",Running,11.0,11.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",385.0
+17313,"Walking, for exercise, with ski poles, Nordic walking, level ground, carrying 20 to 30 lb load (9.0 to 15.0 kg)",Walking,10.8,10.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",378.0
+1236,"Bicycling, stationary, 200-229 watts, vigorous",Cycling,10.8,10.8,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",378.0
+19047,"Skating Treadmill, 8 - 8.9 mph, 2% grade",Skating Treadmill,10.5,10.5,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",367.5
+18280,"Swimming, crawl, fast speed, ~75 yards/minute,  vigorous effort ",Swimming,10.5,10.5,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",367.5
+18285,"Swimming, open water, 5k",Swimming,10.5,10.5,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",367.5
+12145,"Running, self-selected pace",Running,10.5,10.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",367.5
+12060,"Running, 6.7 mph (9 min/mile)",Running,10.5,10.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",367.5
+18260,"Swimming, breaststroke, general, training or  competition ",Swimming,10.3,10.3,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",360.5
+1232,"Bicycling, stationary, 151-199 watts",Cycling,10.3,10.3,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",360.5
+15525,"Race Walking, 3.1 m/s (6.9 mph)",Walking,10.3,10.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",360.5
+12255,"Running uphill, 4.5mph, 5% incline",Running,10.3,10.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",360.5
+12337,"Running uphill, 0.8 to 0.99 mph, 30% incline",Running,10.3,10.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",360.5
+12593,"Running, jogging stroller, outdoors, 5 mph",Running,10.0,10.0,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",350.0
+2007,Aerobic dance wearing 10-15 lb weights ,Aerobic dance wearing 10-15 lb weights,10.0,10.0,Berat,True,Weights,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",350.0
+19046,"Skating Treadmill, 7 - 7.9 mph, 2% grade",Skating Treadmill,10.0,10.0,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",350.0
+1040,"Bicycling, 14-15.9 mph, racing or leisure, fast, vigorous effort",Cycling,10.0,10.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",350.0
+12180,"Running, on a track, team practice",Running,10.0,10.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",350.0
+12512,"Running, 7.0 - 7.9 mph, 1.0 to 3.0 kg backpack",Running,9.8,9.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",343.0
+18377,"Water running, 60 steps/min, very fast",Water running,9.8,9.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",343.0
+18366,"Water jogging, vigorous effort ",Water jogging,9.8,9.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",343.0
+18340,"Swimming, treading water, fast, vigorous effort ",Swimming,9.8,9.8,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",343.0
+18230,"Swimming laps, freestyle, fast, vigorous effort ",Swimming,9.8,9.8,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",343.0
+4125,Hunting - hiking with hunting gear,Hunting - hiking with hunting gear,9.5,9.5,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",332.5
+18250,"Swimming, backstroke, training or competition ",Swimming,9.5,9.5,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",332.5
+12510,"Running, 6.0 - 6.9 mph, 1.0 to 3.0 kg backpack",Running,9.5,9.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",332.5
+2065,"Stair treadmill ergometer, general",Stair treadmill ergometer,9.3,9.3,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",325.5
+12140,"Running, cross country",Running,9.3,9.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",325.5
+12358,"Running downhill, 6.0 to 7.9 mph, -3% to -9%",Running,9.3,9.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",325.5
+12050,"Running, 6-6.3 mph (10 min/mile)",Running,9.3,9.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",325.5
+16004,"Bicycling for transportation, high effort",Cycling,9.3,9.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",325.5
+16002,"Bicycling for transportation, light effort",Cycling,9.3,9.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",325.5
+12045,"Running, 5.5 -5.8 mph ",Running,9.0,9.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+19045,"Skating Treadmill, 6 - 6.9 mph, 2% grade",Skating Treadmill,9.0,9.0,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+19400,"Mountaineering, downhill climbing, walking down with rope",Mountaineering,9.0,9.0,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+1017,"Bicycling, self-selected vigorous pace",Cycling,9.0,9.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+12355,"Running downhill, 7.0 to 8.9 mph, -10% to -15%",Running,9.0,9.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+1066,"Bicycling, 12 mph, standing, hands on brake hoods, 60 rpm",Cycling,9.0,9.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+12588,"Running, jogging stroller, indoors, 6 mph",Running,9.0,9.0,Berat,True,None,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+1270,"Bicycling, stationary, RPM/Spin bike class",Cycling,9.0,9.0,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+2049,"Elliptical trainer, vigorous effort",Elliptical trainer,9.0,9.0,Berat,True,Elliptical trainer,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+2003,"Aerobic, step, with 10 – 12 inch step ",Aerobic,9.0,9.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+17310,"Walking, for exercise, with ski poles, Nordic walking, uphill, moderate pace",Walking,8.8,8.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",308.0
+12335,"Running uphill, 0.6 to 0.79 mph, 30% incline",Running,8.8,8.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",308.0
+1305,"Bicycling, high intensity interval training",Cycling,8.8,8.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",308.0
+1290,"Bicycling, interactive virtual cycling, indoor cycle ergometer ",Cycling,8.8,8.8,Berat,True,None,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",308.0
+12508,"Running, 5.0 - 5.9 mph, 1.0 to 3.0 kg backpack",Running,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+11888,"Soldiers, walking,  2.8 mph, 10% grade, up to 21.5 kg load",Soldiers,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+1009,"Bicycling, mountain, general",Cycling,8.5,8.5,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+1065,"Bicycling, 12 mph, seated, hands on brake hoods or bar drops, 80 rpm",Cycling,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+17305,"Walking, for exercise, 4.5 to 5.0 mph, with ski poles, Nordic walking, level, fast pace",Walking,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+18376,"Water running, 50 steps/min, fast",Water running,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+1008,"Bicycling, BMX",Cycling,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+17231,"Walking, 5.0 to 5.5 mph (8.8 to 8.9 km/h), level, firm surface",Walking,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+12030,"Running, 5.0 to 5.2 mph (12 min/mile)",Running,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+17455,"Walking, Curved treadmill, 3.0 to 5.0 mph, brisk pace",Walking,8.3,8.3,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",290.5
+17367,"Walking, treadmill, 5.0 to 5.5 mph (8.0 to 8.9 km/h), 0% grade",Walking,8.3,8.3,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",290.5
+18290,"Swimming, crawl, medium speed, ~50 yards/minute, vigorous effort  ",Swimming,8.0,8.0,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+18330,"Swimming, synchronized ",Swimming,8.0,8.0,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+17330,"Walking, Teabag walk, Monty Python Ministry of Silly Walks",Walking,8.0,8.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+1030,"Bicycling, 12-13.9 mph, leisure, moderate effort",Cycling,8.0,8.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+1228,"Bicycling, stationary, 126-150 watts",Cycling,8.0,8.0,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+12585,"Running, jogging stroller, indoors, 5 mph",Running,8.0,8.0,Berat,True,None,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+12190,"Running, training, pushing a wheelchair or baby carrier",Running,8.0,8.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+2006,"Aerobic dance, high impact, vigorous effort ",Aerobic dance,8.0,8.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+12150,Running (Taylor Code 200),Running,8.0,8.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+17475,"Walking treadmill, backwards, 2.5 mph, +10% grade",Walking,7.8,7.8,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",273.0
+17325,"Walking, backward, 3.5 mph, uphill, 5% grade",Walking,7.8,7.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",273.0
+17012,"Backpacking,  hiking with a daypack, organized walking with daypack",Backpacking,7.8,7.8,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",273.0
+12555,"Running, barefoot, 3.5-5.9 mph",Running,7.8,7.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",273.0
+12029,Running 4.3 to 4.8 mph,Running,7.8,7.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",273.0
+18358,"Water aerobics, high intensity",Water aerobics,7.5,7.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",262.5
+12020,"Jogging, general, self-selected pace",Running,7.5,7.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",262.5
+2072,"Rowing, stationary, 100 to 149 watts, vigorous effort",Rowing,7.5,7.5,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",262.5
+12353,"Running downhill, 6.0 to 6.9 mph, -10% to -15%",Running,7.5,7.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",262.5
+2040,"Circuit training, including kettlebells, some aerobic movement with minimal rest, general, vigorous intensity",Circuit training,7.5,7.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",262.5
+18375,"Water running, 40 steps/min, moderate",Water running,7.5,7.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",262.5
+2002,"Aerobic, step, with 6 – 8 inch step ",Aerobic,7.3,7.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",255.5
+2000,"Aerobic, general ",Aerobic,7.3,7.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",255.5
+11850,"Walking or walk downstairs or standing,  carrying objects about 100 lbs or more ",Walking,7.3,7.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",255.5
+3029,"Chinese square dance, aerobic dance",Chinese square dance,7.3,7.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",255.5
+2070,"Rowing, stationary ergometer, general, vigorous effort",Rowing,7.3,7.3,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",255.5
+11840,"Walking or walk downstairs or standing,  carrying objects about 75 to 99 lbs ",Walking,7.0,7.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",245.0
+18320,"Swimming, sidestroke, general ",Swimming,7.0,7.0,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",245.0
+1016,"Bicycling, self-selected moderate pace",Cycling,7.0,7.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",245.0
+17230,"Walking, 4.5 to 4.9 mph, level, firm surface, very, very brisk",Walking,7.0,7.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",245.0
+1014,"Bicycling, general",Cycling,7.0,7.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",245.0
+1200,"Bicycling, stationary, general",Cycling,6.8,6.8,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+1011,"Bicycling, to/from work, self selected pace",Cycling,6.8,6.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+1020,"Bicycling, 10-11.9 mph, leisure, slow, light effort",Cycling,6.8,6.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+19080,"Skiing, cross country, 2.5 mph, slow or light effort, ski walking",Skiing,6.8,6.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+18369,"Water walking, vigorous effort, brisk pace ",Water walking,6.8,6.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+1224,"Bicycling, stationary, 101-125 watts",Cycling,6.8,6.8,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+2110,"Teaching exercise classes (e.g., aerobic, water)",Teaching exercise classes (e.g.,6.8,6.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+17364,"Walking, treadmill, 4.5 to 4.9 mph (7.2 to 7.9 km/h), 0% grade",Walking,6.8,6.8,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+11766,"Truck driving, loading and unloading truck,  tying down load, standing, walking and  carrying heavy loads",Truck driving,6.5,6.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",227.5
+12408,"Running/jogging, curved treadmill, 4.0 to 4.9 mph",Running,6.5,6.5,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",227.5
+12028,"Running, 4 to 4.2 mph (13 min/mile)",Running,6.5,6.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",227.5
+18374,"Water running, 30 steps/min, slow",Water running,6.5,6.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",227.5
+17110,Race walking,Race walking,6.5,6.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",227.5
+1220,"Bicycling, stationary, 90-100 watts,  moderate to vigorous",Cycling,6.0,6.0,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",210.0
+17080,"Hiking, cross country (Taylor Code 040)",Hiking,6.0,6.0,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",210.0
+17320,"Walking, backward, 3.5 mph, level",Walking,6.0,6.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",210.0
+11887,"Soldiers, walking, 2.8 mph, 5% grade, up to 21.5 kg load",Soldiers,6.0,6.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",210.0
+18310,"Swimming, leisurely, not lap swimming, general ",Swimming,6.0,6.0,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",210.0
+12010,Jog/walk combination (jogging component of less than 10 minutes) (Taylor Code 180),Jog/walk combination (jogging component of less than 10 minutes) (Taylor Code 180),6.0,6.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",210.0
+18300,"Swimming, lake, ocean, river (Taylor Codes 280,  295) ",Swimming,6.0,6.0,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",210.0
+12352,"Running downhill, 5.0 to 5.9 mph, -10% to -15%",Running,5.8,5.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+1013,"Bicycling, on dirt or farm road, moderate pace",Cycling,5.8,5.8,Sedang,True,None,Outdoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+17438,"Walking, treadmill, 2.5 mph, 0% grade, -10 to 0 degrees C, 40 lb (18.2 kg) load",Walking,5.8,5.8,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+17361,"Walking, treadmill, 4.0 to 4.4 mph (6.4 to 7.1 km/h), 0% grade",Walking,5.8,5.8,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+1218,"Bicycling, stationary, 70-80 watts",Cycling,5.8,5.8,Sedang,True,Stationary bike,Indoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+1019,"Bicycling, leisure, 9.4 mph",Cycling,5.8,5.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+18050,"Canoeing, rowing, 4.0-5.9 mph, moderate effort ",Canoeing,5.8,5.8,Sedang,True,Rowing machine,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+5180,"Walking/running, playing with child(ren), vigorous effort, only active periods",Walking,5.8,5.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+18240,"Swimming laps, freestyle, slow, recreational ",Swimming,5.8,5.8,Sedang,True,Swimming pool,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+18292,"Swimming, crawl, slow speed, 30-45 yards/minute, moderate effort  ",Swimming,5.8,5.8,Sedang,True,Swimming pool,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+10131,"Marching band, playing an instrument, walking, brisk pace, general",Marching band,5.5,5.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",192.5
+2001,"Aerobic, step, with 4-inch step ",Aerobic,5.5,5.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",192.5
+17220,"Walking, 4.0 to 4.4 mph (6.4 to 7.0 km/h), level, firm surface, very brisk pace",Walking,5.5,5.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",192.5
+18355,"Water aerobics, water calisthenics, general",Water aerobics,5.5,5.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",192.5
+8095,"Mowing lawn, general, walking, moderate effort",Mowing lawn,5.5,5.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",192.5
+11830,"Walking or walk downstairs or standing,  carrying objects about 50 to 74 lbs ",Walking,5.5,5.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",192.5
+1252,"Bicycling, concentric only, 100 W",Cycling,5.5,5.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",192.5
+17304,"Walking, for exercise, 3.6 to 4.4 mph (5.8 to 7.1 km/h), with ski poles, Nordic walking, level, moderate pace",Walking,5.3,5.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",185.5
+18265,"Swimming breaststroke, recreational ",Swimming,5.3,5.3,Sedang,True,Swimming pool,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",185.5
+2120,"Water aerobics, water calisthenics, water exercise",Water aerobics,5.3,5.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",185.5
+17082,"Hiking or walking at a normal pace through fields and hillsides, no load",Hiking or walking at a normal pace through fields and hillsides,5.3,5.3,Sedang,True,None,Outdoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",185.5
+12405,"Running/jogging, curved treadmill, 3.0 to 3.9 mph",Running,5.3,5.3,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",185.5
+1216,"Bicycling, stationary, 60 watts, light to moderate effort",Cycling,5.0,5.0,Sedang,True,Stationary bike,Indoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",175.0
+2048,"Elliptical trainer, moderate effort",Elliptical trainer,5.0,5.0,Sedang,True,Elliptical trainer,Indoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",175.0
+2071,"Rowing, stationary ergometer, general, <100 watts,  moderate effort",Rowing,5.0,5.0,Sedang,True,Stationary bike,Indoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",175.0
+2005,"Aerobic dance, low impact, moderate effort ",Aerobic dance,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+11793,"Walking on job, 3.5 to 3.9 mph, in office, brisk speed,  not carrying anything ",Walking,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+18255,"Swimming, backstroke, recreational ",Swimming,4.8,4.8,Sedang,True,Swimming pool,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+12025,"Jogging, in place",Running,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+17434,"Walking, treadmill, 2.5 mph, 0% grade, 5 to 20 degrees C, 40 lb (18.2 kg) load",Walking,4.8,4.8,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+21050,"Walking, 3.5 to 3.9 mph, brisk speed, not carrying anything",Walking,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+17358,"Walking, treadmill, 3.5 to 3.9 mph (5.6 to 6.3 km/h), 0% grade",Walking,4.8,4.8,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+11146,"Farming, moderate effort (e.g., feeding  animals, chasing cattle by walking and/or  horseback, spreading manure, harvesting crops)",Farming,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+18368,"Water walking, moderate effort, moderate pace ",Water walking,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+17260,"Walking, grass track",Walking,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+20038,"Walking, 3.5 to 3.9 mph, brisk speed, not carrying anything",Walking,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+17200,"Walking, 3.5 to 3.9 mph, level, brisk, firm surface, walking for exercise",Walking,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+17262,"Walking, normal pace, plowed field or sand",Walking,4.5,4.5,Sedang,True,None,Outdoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+17076,"Hauling water, head hauling, walking on flat surface",Hauling water,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+11615,"Standing, moderate effort, lifting items  continuously, 10 – 20 lbs, with limited walking  or resting",Standing,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+21065,"Walking, 3.5 mph, briskly and carrying objects less than 25 pounds",Walking,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+11810,"Walking, 3.5 mph, briskly and carrying objects  less than 25 lbs ",Walking,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+12027,Jogging on a mini-tramp,Running,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+15285,"Golf, walking, pulling clubs",Golf,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+21060,"Walking, 3.0 mph moderately and carrying objects less than 25 pounds, pushing something",Walking,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+5024,"Polishing floors, standing, walking slowly, using electric polishing machine",Polishing floors,4.5,4.5,Sedang,True,Exercise machine,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+11800,"Walking, 3.0 mph, moderately and carrying  light objects less than 25 lbs ",Walking,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+15265,"Golf, walking, carrying clubs",Golf,4.3,4.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,150.5
+11381,"Horse, feeding, watering, cleaning stalls, implied walking and lifting loads ",Horse,4.3,4.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,150.5
+17302,"Walking, for exercise, 2.5 to 3.5 mph (4.0 to 5.6 km/h), with ski poles, Nordic walking, level, moderate pace",Walking,4.3,4.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,150.5
+1015,"Bicycling, self-selected easy pace",Cycling,4.3,4.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,150.5
+17270,"Walking, to work or class (Taylor Code 015)",Walking,4.0,4.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+17255,"Walking, self-selected speed, indoor track or outdoors, firm surface",Walking,4.0,4.0,Sedang,True,None,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+15140,"Coaching, football, soccer, basketball, baseball, swimming, etc.",Coaching,4.0,4.0,Sedang,True,Swimming pool,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+1264,"Bicycling, eccentric only, 200 W",Cycling,4.0,4.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+8230,"Watering lawn or garden, standing or walking",Watering lawn or garden,4.0,4.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+10130,"Marching band, baton twirling, walking, moderate pace, general",Marching band,4.0,4.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+4020,Fishing from river bank and walking,Fishing from river bank and walking,4.0,4.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+1214,"Bicycling, stationary, 50 watts, light effort",Cycling,4.0,4.0,Sedang,True,Stationary bike,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+1010,"Bicycling, <10 mph, leisure, to work or for pleasure (Taylor Code 115)",Cycling,4.0,4.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+11820,"Walking or walk downstairs or standing,  carrying objects about 25 to 49 lbs ",Walking,4.0,4.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+11524,"Police Officer, Walking",Walking,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+17100,"Pushing or pulling stroller with child or walking with children, 2.5 to 3.1 mph",Pushing or pulling stroller with child or walking with children,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+11805,"Walking, pushing a wheelchair ",Walking,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+11792,"Walking on job, 2.8 to 3.4 mph, in office, moderate  speed, not carrying anything ",Walking,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+17355,"Walking, treadmill, 3.0 to 3.4 mph (4.8 to 5.5 km/h), 0% grade",Walking,3.8,3.8,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+17190,"Walking, 2.8 to 3.4 mph, level, moderate pace, firm surface",Walking,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+17081,"Hiking slowly or ambling through fields and hillsides, no load ",Hiking slowly or ambling through fields and hillsides,3.8,3.8,Sedang,True,None,Outdoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+11797,"Walking, 2.5 mph, slow speed, carrying heavy  objects more than 25 lbs ",Walking,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+20037,"Walking, 2.8 to 3.4 mph, moderate speed, not carrying anything",Walking,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+11375,"Garbage collector, walking, dumping bins into truck, street cleaning",Garbage collector,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+17031,"Loading  and/or unloading a car, implied walking",Loading  and/or unloading a car,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+21045,"Walking, 2.8 to 3.4 mph, moderate speed, not carrying anything",Walking,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+18356,"Water aerobics, resistance exercises",Water aerobics,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+15400,"Horseback riding, walking",Horseback riding,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+21055,"Walking, 2.5 mph slowly and carrying objects less than 25 pounds",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+18350,"Swimming, treading water, moderate effort,  general ",Swimming,3.5,3.5,Sedang,True,Swimming pool,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+5165,"Walking, moderate effort tasks, non-cleaning (readying to leave, shut/lock doors, close windows, etc.",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+5175,"Walking/running, playing with child(ren), moderate effort, only active periods",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+17332,"Walking, Putey walk, Monty Python Ministry of Silly Walks",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+17250,"Walking, for pleasure, work break (Taylor Code xxx)",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+17160,Walking for pleasure (Taylor Code 010),Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+5054,"carrying groceries, on level ground, walking",carrying groceries,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+17011,"Walking with a day pack, level ground, assumed in the city",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+16060,"Walking for transportation, 2.8-3.2 mph, level, moderate pace, firm surface",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+15615,Walking football/soccer,Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+11795,"Walking on job, 2.5 mph, slow speed, carrying  light objects less than 25 lbs ",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+17352,"Walking, treadmill, 2.5 to 2.9 mph (4.0 to 4.7 km/h), 0% grade",Walking,3.5,3.5,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+1210,"Bicycling, stationary, 25-30 watts, very light to light effort",Cycling,3.5,3.5,Sedang,True,Stationary bike,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+18070,"Canoeing, rowing, for pleasure, general (Taylor Code 250) ",Canoeing,3.5,3.5,Sedang,True,Rowing machine,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+1018,"Bicycling, leisure 5.5 mph",Cycling,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+9106,Touring/traveling/vacation involving walking,Touring/traveling/vacation involving walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+10135,"Marching band, drum major, walking",Marching band,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+12026,Jogging 2.6 to 3.7 mph,Running,3.3,3.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,115.5
+5060,Food shopping with or without a grocery cart; carrying a 10 lb bag; standing or walking,Food shopping with or without a grocery cart; carrying a 10 lb bag; standing or walking,3.3,3.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,115.5
+17382,"Walking, treadmill, downhill (-3% to -12% grade), 2.8 to 3.1 mph",Walking,3.3,3.3,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,115.5
+17180,"Walking, 2.5 mph, downhill",Walking,3.3,3.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,115.5
+17412,"Walking, treadmill, downhill (-5% to -25% grade), 2.8 mph, with Nordic Poles",Walking,3.3,3.3,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,115.5
+5147,"Implied walking, putting away household items, moderate effort",Implied walking,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+17349,"Walking, treadmill, 2.0 to 2.4 mph (3.2 to 3.9 km/h), 0% grade",Walking,3.0,3.0,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+8220,"Walking, applying fertilizer or seeding a lawn, push applicator",Walking,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+8251,"Walking, gathering gardening tools",Walking,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+8250,"Implied walking/standing - picking up yard, light, picking flowers or vegetables",Implied walking/standing - picking up yard,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+5181,"Walking and carrying small child, child weighing 15 lbs or more",Walking,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+11796,"Walking, gathering things at work, ready to  leave ",Walking,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+17165,Walking the dog,Walking,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+17170,"Walking, 2.5 mph, firm, level surface",Walking,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0

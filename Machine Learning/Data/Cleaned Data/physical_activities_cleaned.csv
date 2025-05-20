@@ -1,0 +1,858 @@
+activity_id,activity_name,activity_category,met_value,calories_per_kg_per_hour,intensity_level,is_cardio,equipment_needed,location,recommended_duration,recommended_frequency,diet_targets,calories_70kg_30min
+12135,"Running, 14 mph (4.3 min/mile)",Running,23.0,23.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",805.0
+12134,"Running, 13 mph (4.6 min/mile)",Running,19.8,19.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",693.0
+12186,"Running, on track, 2000-3000m, competitive",Running,19.3,19.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",675.5
+12132,"Running, 12 mph (5.0 min/mile)",Running,18.5,18.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",647.5
+12184,"Running, on track, 500-1500m, competitive",Running,18.0,18.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",630.0
+2084,"Ski ergometer, cross country, double poling, fast to maximum speed",Ski ergometer,18.0,18.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",630.0
+11250,"Forestry, ax chopping, very fast, 1.25 kg axe,  51 blows/min, extremely vigorous effort ",Forestry,17.5,17.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",612.5
+12325,"Running uphill, 5.0 to 5.9 mph, 15% incline",Running,17.5,17.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",612.5
+1060,"Bicycling, >20 mph, racing, not drafting",Cycling,16.8,16.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",588.0
+12130,"Running, 11 mph (5.5 min/mile)",Running,16.8,16.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",588.0
+12416,"Running curved treadmill, 9.0 to 9.9 mph",Running,16.8,16.8,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",588.0
+1248,"Bicycling, stationary, >325 watts, very vigorous",Cycling,16.3,16.3,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",570.5
+17040,"Climbing hills, no load, steep grade (10-40%), 1.8 to 5.0 mph",Climbing hills,16.3,16.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",570.5
+12345,"Running uphill, >1.6mph, 10-30% incline",Running,16.3,16.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",570.5
+19112,"Skiing, cross country, 12-16 mph, elite skier, racing",Skiing,16.0,16.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",560.0
+19345,"Rollerskiing, >10 km/h, 6-10 degree incline",Rollerskiing,16.0,16.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",560.0
+1004,"Bicycling, mountain, competitive racing",Cycling,16.0,16.0,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",560.0
+12350,"Running, hilly terrain, ±100m change in elevation ",Running,16.0,16.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",560.0
+18180,"Skindiving, fast ",Skindiving,15.8,15.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",553.0
+15528,"Race Walking, racing speed, 4.0 m/s (8.95 mph)",Walking,15.5,15.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",542.5
+18112,"Rowing, simulated crew in a water tank, single oar, 33 strokes/min, ",Rowing,15.5,15.5,Berat,True,Rowing machine,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",542.5
+19130,"Skiing, cross country, hard snow, uphill, maximum, snow mountaineering",Skiing,15.5,15.5,Berat,False,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",542.5
+12265,"Running uphill, 7.0 mph, 5% incline",Running,15.5,15.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",542.5
+18114,"Rowing, single scull, ergometer, ergometer on slides, racing speed (32+ strokes/min, >10 mph)",Rowing,15.5,15.5,Berat,True,Rowing machine,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",542.5
+17039,"Climbing hills, no load, very steep grade (30-40%), 1.2 to 1.8 mph",Climbing hills,15.5,15.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",542.5
+15594,"Rollerblading, in-line skating, 24.0 km/h (15.0 mph), maximal effort",Rollerblading,15.5,15.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",542.5
+12170,"Running, stairs, up",Running,15.0,15.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",525.0
+19325,"Rollerskiing, 24 - 27.9 km/h, no incline",Rollerskiing,15.0,15.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",525.0
+12343,"Running uphill, 1.4 to 1.59 mph, 30% incline",Running,14.8,14.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",518.0
+12120,"Running, 10 mph (6 min/mile)",Running,14.8,14.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",518.0
+12115,"Running, 9.3 to 9.6 mph",Running,14.8,14.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",518.0
+18294,"Swimming, crawl, elite swimmers, competition, >90 yards/minute",Swimming,14.5,14.5,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",507.5
+19335,"Rollerskiing, 16-22 km/h, 2-5 degree incline",Rollerskiing,14.3,14.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",500.5
+15432,"Taekwondo, combat simulation",Taekwondo,14.3,14.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",500.5
+19110,"Skiing, cross country, elite skier, >8.0-11.9 mph, racing",Skiing,14.0,14.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",490.0
+12414,"Running curved treadmill, 8.0 to 8.9 mph",Running,14.0,14.0,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",490.0
+2074,"Rowing, stationary, ? 200 watts, very vigorous effort",Rowing,14.0,14.0,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",490.0
+18390,"Windsurfing, competition, pumping for speed ",Windsurfing,14.0,14.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",490.0
+19018,"Skating, ice dancing",Skating,14.0,14.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",490.0
+1003,"Bicycling, mountain, uphill, vigorous",Cycling,14.0,14.0,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",490.0
+15527,"Race Walking, 3.7 m/s (8.3 mph)",Walking,13.8,13.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",483.0
+19050,"Skating, speed, competitive",Skating,13.8,13.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",483.0
+1244,"Bicycling, stationary, 270-305 watts, very vigorous",Cycling,13.8,13.8,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",483.0
+18270,"Swimming, butterfly, general ",Swimming,13.8,13.8,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",483.0
+12361,"Running downhill, 8.0 to 10.5 mph, -3% to -9%",Running,13.8,13.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",483.0
+19140,"Skiing, cross-country, biathlon, skating technique",Skiing,13.5,13.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",472.5
+18104,"Kayaking, competition",Kayaking,13.5,13.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",472.5
+12341,"Running uphill, 1.2 to 1.39 mph, 30-40% incline",Running,13.5,13.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",472.5
+12565,"Running, barefoot, 8.0-8.9 mph",Running,13.5,13.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",472.5
+19135,"Skiing, cross-country, skating",Skiing,13.3,13.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",465.5
+12200,"Running, marathon",Running,13.3,13.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",465.5
+12260,"Running uphill, 6.0 mph, 5% incline",Running,13.3,13.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",465.5
+2288,"Blackbox Immersive virtual reality exergaming system, vigorous intensity",Blackbox Immersive virtual reality exergaming system,13.0,13.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",455.0
+12620,"Triathlon, Running",Running,13.0,13.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",455.0
+12110,"Running, 9 mph (6.5 min/mile)",Running,13.0,13.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",455.0
+3039,"ballroom dance, DanceSport competition (modern waltz, tango, Viennese waltz, slow fox, quick step, samba, chacha, rumba, paso doble, jive)",ballroom dance,13.0,13.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",455.0
+19144,"Biathlon training, 5 degree incline, 10.7 km/h (5 mph), with/without rifle",Biathlon training,12.8,12.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",448.0
+19142,"Biathlon training, 5 degree incline, 8 km/h (5 mph), with/without rifle",Biathlon training,12.8,12.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",448.0
+12100,"Running, 8.6 mph (7 min/mile)",Running,12.5,12.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",437.5
+1240,"Bicycling, stationary, 230-250 watts, very vigorous",Cycling,12.5,12.5,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",437.5
+18060,"Canoeing, rowing, kayaking, competition, > 6 mph, vigorous effort ",Canoeing,12.5,12.5,Berat,True,Rowing machine,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",437.5
+19300,"Skiing, roller, elite racers",Skiing,12.5,12.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",437.5
+19330,"Rollerskiing, 10-15 km/h, 2-5 degree incline",Rollerskiing,12.5,12.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",437.5
+15550,"Rope jumping, fast pace, 120-160 skips/min",Rope jumping,12.3,12.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",430.5
+15100,"Boxing, in ring, general",Boxing,12.3,12.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",430.5
+19340,"Rollerskiing, 6-9 km/h, 6-10 degree incline",Rollerskiing,12.3,12.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",430.5
+17315,"Walking, for exercise, with ski poles, Nordic walking, uphill, carrying 20 to 30 lb load (9.0 to 15.0 kg)",Walking,12.3,12.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",430.5
+15593,"Roller blading, in-line skating, 21.0 to 21.7 km/h (13.0 to 13.6 mph), fast pace, exercise training",Roller blading,12.3,12.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",430.5
+1050,"Bicycling, 16-19 mph, racing/not drafting or >19 mph drafting, very fast, racing general",Cycling,12.0,12.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",420.0
+12514,"Running, 8.0 - 8.9 mph, 1.0 to 3.0 kg backpack",Running,12.0,12.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",420.0
+12560,"Running, barefoot, 6.0-7.9 mph",Running,12.0,12.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",420.0
+12090,"Running, 8 mph (7.5 min/mile)",Running,12.0,12.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",420.0
+15320,"Handball, general (Taylor Code 520)",Handball,12.0,12.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",420.0
+15650,Squash (Taylor Code 530),Squash (Taylor Code 530),12.0,12.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",420.0
+11495,"Skindiving or SCUBA diving as a frogman,  Navy Seal ",Skindiving or SCUBA diving as a frogman,12.0,12.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",420.0
+12412,"Running curved treadmill, 7.0 to 7.9 mph",Running,12.0,12.0,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",420.0
+18080,"Canoeing or rowing, in competition, crew or sculling (Taylor Code 260) ",Canoeing or rowing,12.0,12.0,Berat,True,Rowing machine,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",420.0
+17030,"Carrying load, >74 lb load, upstairs",Carrying load,12.0,12.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",420.0
+15420,Jai alai,Jai alai,12.0,12.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",420.0
+15551,"Rope jumping, moderate pace, general, 100 to 120 skips/min, 2 foot skip, plain bounce",Rope jumping,11.8,11.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",413.0
+12339,"Running uphill, 1.0 to 1.19 mph, 30% incline",Running,11.8,11.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",413.0
+18190,"Skindiving, moderate ",Skindiving,11.8,11.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",413.0
+12080,"Running, 7.5 mph (8 min/mile)",Running,11.8,11.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",413.0
+12595,"Running, jogging stroller, outdoors, 6 mph",Running,11.5,11.5,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",402.5
+12600,"Skipping, 5.5-6.0 mph",Skipping,11.5,11.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",402.5
+15446,"Kendu, kakari keiko style, very high intensity",Kendu,11.3,11.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",395.5
+19100,"Skiing, cross country, 5.0-7.9 mph, brisk speed, vigorous effort",Skiing,11.3,11.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",395.5
+3038,"Ballroom dancing, competitive, general ",Ballroom dancing,11.3,11.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",395.5
+15433,Judo ,Judo,11.3,11.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",395.5
+2214,"High intensity interval exercise,  burpees, mountain climbers, squat jumps, Tabata, vigorous effort",High intensity interval exercise,11.0,11.0,Berat,False,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",385.0
+11889,"Soldiers, walking,  2.8 mph, 15% grade, up to 21.5 kg load",Soldiers,11.0,11.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",385.0
+19048,"Skating Treadmill, 9 - 9.9 mph, 2% grade",Skating Treadmill,11.0,11.0,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",385.0
+2078,"Shuttle running, forward/backward/lateral",Shuttle running,11.0,11.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",385.0
+18229,"Stand up Paddleboard, standing, 50-69 strokes/min",Stand up Paddleboard,11.0,11.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",385.0
+2073,"Rowing, stationary, 150 to 199 watts, vigorous effort",Rowing,11.0,11.0,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",385.0
+1254,"Bicycling, concentric only, 200 W",Cycling,11.0,11.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",385.0
+2068,"Rope skipping exercise, general",Rope skipping exercise,11.0,11.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",385.0
+12410,"Running curved treadmill, 5.0 to 5.9 mph",Running,11.0,11.0,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",385.0
+12070,"Running, 7 mph (8.5 min/mile)",Running,11.0,11.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",385.0
+18385,"Windsurfing or kitesurfing, crossing trial ",Windsurfing or kitesurfing,11.0,11.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",385.0
+17313,"Walking, for exercise, with ski poles, Nordic walking, level ground, carrying 20 to 30 lb load (9.0 to 15.0 kg)",Walking,10.8,10.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",378.0
+1236,"Bicycling, stationary, 200-229 watts, vigorous",Cycling,10.8,10.8,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",378.0
+15118,"Boxing, punching bag, 180 b/min",Boxing,10.8,10.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",378.0
+2085,"Slide board exercise, general",Slide board exercise,10.5,10.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",367.5
+15536,"Rock climbing, speed climbing, very difficult",Rock climbing,10.5,10.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",367.5
+15539,"Rock climbing, treadwall, 7-10 m/min",Rock climbing,10.5,10.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",367.5
+15538,"Rock climbing, treadwall, 4-6 m/min",Rock climbing,10.5,10.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",367.5
+19047,"Skating Treadmill, 8 - 8.9 mph, 2% grade",Skating Treadmill,10.5,10.5,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",367.5
+15597,"Skateboard, longboard, 13.3 km/h, fast speed",Skateboard,10.5,10.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",367.5
+18280,"Swimming, crawl, fast speed, ~75 yards/minute,  vigorous effort ",Swimming,10.5,10.5,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",367.5
+18285,"Swimming, open water, 5k",Swimming,10.5,10.5,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",367.5
+15205,Floorball,Floorball,10.5,10.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",367.5
+2082,"Ski ergometer, cross country, double poling, slow to moderate speed",Ski ergometer,10.5,10.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",367.5
+12145,"Running, self-selected pace",Running,10.5,10.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",367.5
+19320,"Rollerskiing, 20 - 23.9 km/h, no incline",Rollerskiing,10.5,10.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",367.5
+12060,"Running, 6.7 mph (9 min/mile)",Running,10.5,10.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",367.5
+18260,"Swimming, breaststroke, general, training or  competition ",Swimming,10.3,10.3,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",360.5
+1232,"Bicycling, stationary, 151-199 watts",Cycling,10.3,10.3,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",360.5
+15525,"Race Walking, 3.1 m/s (6.9 mph)",Walking,10.3,10.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",360.5
+3080,"Musical Theater, Singing/dancing",Musical Theater,10.3,10.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",360.5
+18440,"Aquatic cycling, 90+ RPM",Aquatic cycling,10.3,10.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",360.5
+19405,"Mountaineering, downhill climbing/cross-country skiing",Mountaineering,10.3,10.3,Berat,False,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",360.5
+15430,"Martial Arts, different types, moderate pace (e.g., judo, jujitsu, karate, kick boxing, tae kwon do, tai-bo, Muay Thai boxing)",Martial Arts,10.3,10.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",360.5
+12255,"Running uphill, 4.5mph, 5% incline",Running,10.3,10.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",360.5
+15702,"Trampoline, competitive",Trampoline,10.3,10.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",360.5
+12337,"Running uphill, 0.8 to 0.99 mph, 30% incline",Running,10.3,10.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",360.5
+12593,"Running, jogging stroller, outdoors, 5 mph",Running,10.0,10.0,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",350.0
+19192,"Snow shoeing, vigorous effort",Snow shoeing,10.0,10.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",350.0
+15362,"Hockey, ice, competitive",Hockey,10.0,10.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",350.0
+2007,Aerobic dance wearing 10-15 lb weights ,Aerobic dance wearing 10-15 lb weights,10.0,10.0,Berat,True,Weights,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",350.0
+15554,"Rope jumping, double under or more",Rope jumping,10.0,10.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",350.0
+15490,"Paddleball, competitive",Paddleball,10.0,10.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",350.0
+15520,"Racquetball, competitive",Racquetball,10.0,10.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",350.0
+19046,"Skating Treadmill, 7 - 7.9 mph, 2% grade",Skating Treadmill,10.0,10.0,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",350.0
+18360,Water polo ,Water polo,10.0,10.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",350.0
+15734,"Track and field (e.g., steeplechase, hurdles)",Track and field (e.g.,10.0,10.0,Berat,False,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",350.0
+17029,"Carrying load, 50 to 74 lb load, upstairs",Carrying load,10.0,10.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",350.0
+17037,"Climbing hills, no load, 4.0 to 5.0 mph, 3 to 5% grade, very fast pace",Climbing hills,10.0,10.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",350.0
+1040,"Bicycling, 14-15.9 mph, racing or leisure, fast, vigorous effort",Cycling,10.0,10.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",350.0
+17060,"Climbing hills, 20+ pound load, 5 to 20% grade, moderate to brisk pace",Climbing hills,10.0,10.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",350.0
+12180,"Running, on a track, team practice",Running,10.0,10.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",350.0
+4081,"Hunting large game, dragging carcass",Hunting large game,9.8,9.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",343.0
+12512,"Running, 7.0 - 7.9 mph, 1.0 to 3.0 kg backpack",Running,9.8,9.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",343.0
+22360,"Conditioning/exercise virtual reality fitness, vigorous intensity",Conditioning,9.8,9.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",343.0
+15592,"Roller blading, in-line skating, 17.7 km/h (11.0 mph), moderate pace, exercise training",Roller blading,9.8,9.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",343.0
+18377,"Water running, 60 steps/min, very fast",Water running,9.8,9.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",343.0
+18366,"Water jogging, vigorous effort ",Water jogging,9.8,9.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",343.0
+15203,"Fencing, epee, competitive",Fencing,9.8,9.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",343.0
+2058,Kettle bell swings,Kettle bell swings,9.8,9.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",343.0
+18340,"Swimming, treading water, fast, vigorous effort ",Swimming,9.8,9.8,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",343.0
+18230,"Swimming laps, freestyle, fast, vigorous effort ",Swimming,9.8,9.8,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",343.0
+3031,"Nightclub or folk dancing, vigorous effort (e.g., nightclub, disco, folk, line dancing, Irish step dancing, polka, contra)",Nightclub or folk dancing,9.8,9.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",343.0
+18228,"Stand up Paddleboard, standing, 40-49 strokes/min",Stand up Paddleboard,9.8,9.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",343.0
+15445,"Kendu, kirikaeshi style, high intensity",Kendu,9.6,9.6,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",336.0
+4125,Hunting - hiking with hunting gear,Hunting - hiking with hunting gear,9.5,9.5,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",332.5
+18250,"Swimming, backstroke, training or competition ",Swimming,9.5,9.5,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",332.5
+2114,"Therapeutic exercise ball, Fitball exercise, high intensity",Therapeutic exercise ball,9.5,9.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",332.5
+19115,"Skiing, cross-country skiing high-intensity training",Skiing,9.5,9.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",332.5
+12510,"Running, 6.0 - 6.9 mph, 1.0 to 3.0 kg backpack",Running,9.5,9.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",332.5
+15605,"Soccer, competitive",Soccer,9.5,9.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",332.5
+18132,"Sailing, in competition, high effort",Sailing,9.3,9.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",325.5
+15125,"Boxing, simulated boxing round, exercise",Boxing,9.3,9.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",325.5
+2065,"Stair treadmill ergometer, general",Stair treadmill ergometer,9.3,9.3,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",325.5
+19146,"Skiing, slalom",Skiing,9.3,9.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",325.5
+12140,"Running, cross country",Running,9.3,9.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",325.5
+12358,"Running downhill, 6.0 to 7.9 mph, -3% to -9%",Running,9.3,9.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",325.5
+2284,"ExerCube, workout series",ExerCube,9.3,9.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",325.5
+15072,"Basketball, drills, practice",Basketball,9.3,9.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",325.5
+12050,"Running, 6-6.3 mph (10 min/mile)",Running,9.3,9.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",325.5
+17134,"Stair climbing, fast pace, one step at a time",Stair climbing,9.3,9.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",325.5
+16004,"Bicycling for transportation, high effort",Cycling,9.3,9.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",325.5
+16002,"Bicycling for transportation, light effort",Cycling,9.3,9.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",325.5
+12045,"Running, 5.5 -5.8 mph ",Running,9.0,9.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+19045,"Skating Treadmill, 6 - 6.9 mph, 2% grade",Skating Treadmill,9.0,9.0,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+11529,"Counter terrorism maneuvers, clearing building",Counter terrorism maneuvers,9.0,9.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",315.0
+19400,"Mountaineering, downhill climbing, walking down with rope",Mountaineering,9.0,9.0,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+19040,"Skating, ice, rapidly, more than 9 mph but not competitive",Skating,9.0,9.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",315.0
+15025,"Badminton, competitive, match play",Badminton,9.0,9.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",315.0
+18106,"Kayaking, slalom, flat water",Kayaking,9.0,9.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",315.0
+1017,"Bicycling, self-selected vigorous pace",Cycling,9.0,9.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+12355,"Running downhill, 7.0 to 8.9 mph, -10% to -15%",Running,9.0,9.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+5150,"Moving household items upstairs, carrying boxes or furniture",Moving household items upstairs,9.0,9.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",315.0
+15480,Orienteering,Orienteering,9.0,9.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",315.0
+1066,"Bicycling, 12 mph, standing, hands on brake hoods, 60 rpm",Cycling,9.0,9.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+15402,"Horseback riding, jumping",Horseback riding,9.0,9.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",315.0
+12588,"Running, jogging stroller, indoors, 6 mph",Running,9.0,9.0,Berat,True,None,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+11246,"Fire fighter, hauling hoses on ground,  carrying/hoisting equipment, breaking down  walls etc., wearing full gear",Fire fighter,9.0,9.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",315.0
+1270,"Bicycling, stationary, RPM/Spin bike class",Cycling,9.0,9.0,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+2069,"Jumping rope, Digi-Jump Maching, 120 jumps/minute",Jumping rope,9.0,9.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",315.0
+2049,"Elliptical trainer, vigorous effort",Elliptical trainer,9.0,9.0,Berat,True,Elliptical trainer,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+2003,"Aerobic, step, with 10 – 12 inch step ",Aerobic,9.0,9.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",315.0
+2240,"Impulse Training System, Inertial Exercise Trainer",Impulse Training System,9.0,9.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",315.0
+15534,"Rock climbing, free boulder",Rock climbing,8.8,8.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",308.0
+17310,"Walking, for exercise, with ski poles, Nordic walking, uphill, moderate pace",Walking,8.8,8.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",308.0
+12335,"Running uphill, 0.6 to 0.79 mph, 30% incline",Running,8.8,8.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",308.0
+3087,"Polynesian dance, Samoan slap, Tahitian",Polynesian dance,8.8,8.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",308.0
+11550,"Shoveling, more than 16 lbs/minute, deep  digging, vigorous effort ",Shoveling,8.8,8.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",308.0
+17036,"Climbing hills, no load, 11 to 20% grade, slow-to-moderate pace",Climbing hills,8.8,8.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",308.0
+1305,"Bicycling, high intensity interval training",Cycling,8.8,8.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",308.0
+1290,"Bicycling, interactive virtual cycling, indoor cycle ergometer ",Cycling,8.8,8.8,Berat,True,None,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",308.0
+17038,"Climbing hills, no load, steep grade (30%), slow pace (less than 1.2 mph)",Climbing hills,8.5,8.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",297.5
+18436,"Aquatic cycling, 80-89 RPM",Aquatic cycling,8.5,8.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",297.5
+12508,"Running, 5.0 - 5.9 mph, 1.0 to 3.0 kg backpack",Running,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+11493,"Mining, general services, drilling, mining support jobs (mechanical, welding, pipe installation, general construction)",Mining,8.5,8.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",297.5
+3075,Flamenco dance,Flamenco dance,8.5,8.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",297.5
+11888,"Soldiers, walking,  2.8 mph, 10% grade, up to 21.5 kg load",Soldiers,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+19090,"Skiing, cross country, 4.0-4.9 mph, moderate speed and effort, general",Skiing,8.5,8.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",297.5
+2107,"Pound, combination of Pilates and body movements with drumming",Pound,8.5,8.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",297.5
+1009,"Bicycling, mountain, general",Cycling,8.5,8.5,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+1065,"Bicycling, 12 mph, seated, hands on brake hoods or bar drops, 80 rpm",Cycling,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+17305,"Walking, for exercise, 4.5 to 5.0 mph, with ski poles, Nordic walking, level, fast pace",Walking,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+18376,"Water running, 50 steps/min, fast",Water running,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+1008,"Bicycling, BMX",Cycling,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+15115,"Boxing, punching bag, 120 b/min",Boxing,8.5,8.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",297.5
+15192,"Auto racing, open wheel",Auto racing,8.5,8.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",297.5
+11266,"Forestry, vigorous effort (e.g., barking, felling,  or trimming trees, carrying or stacking logs,  planting seeds, sawing lumber by hand )",Forestry,8.5,8.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",297.5
+17231,"Walking, 5.0 to 5.5 mph (8.8 to 8.9 km/h), level, firm surface",Walking,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+12030,"Running, 5.0 to 5.2 mph (12 min/mile)",Running,8.5,8.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",297.5
+15560,"Rugby, union, team, competitive",Rugby,8.3,8.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",290.5
+15596,"Skateboard, longboard, 16.2 km/h, typical speed",Skateboard,8.3,8.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",290.5
+11710,"Steel mill, vigorous effort (e.g., hand rolling,  merchant mill rolling, removing slag, tending  furnace)",Steel mill,8.3,8.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",290.5
+15552,"Rope jumping, slow pace, < 100 skips/min, 2 foot skip, rhythm bounce",Rope jumping,8.3,8.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",290.5
+19315,"Rollerskiing, 17 - 19.9 km/h, no incline",Rollerskiing,8.3,8.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",290.5
+8057,"Felling trees, large size",Felling trees,8.3,8.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",290.5
+10048,"Drumming, concert/live show",Drumming,8.3,8.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",290.5
+17455,"Walking, Curved treadmill, 3.0 to 5.0 mph, brisk pace",Walking,8.3,8.3,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",290.5
+17025,"Carrying load upstairs, general",Carrying load upstairs,8.3,8.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",290.5
+17367,"Walking, treadmill, 5.0 to 5.5 mph (8.0 to 8.9 km/h), 0% grade",Walking,8.3,8.3,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",290.5
+18290,"Swimming, crawl, medium speed, ~50 yards/minute, vigorous effort  ",Swimming,8.0,8.0,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+15533,"Rock or mountain climbing (Taylor Code 060), (formerly code 17120)",Rock or mountain climbing (Taylor Code 060),8.0,8.0,Berat,False,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+17130,"Stair climbing, using or climbing up ladder (Taylor Code 030)",Stair climbing,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+18330,"Swimming, synchronized ",Swimming,8.0,8.0,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+15360,"Hockey, ice, general",Hockey,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+15676,"Tennis, general, competitive",Tennis,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+15690,"Tennis, singles (Taylor Code 420)",Tennis,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+15725,"Volleyball, beach, in sand",Volleyball,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+17028,"Carrying load, 25 to 49 lb load, upstairs",Carrying load,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+17330,"Walking, Teabag walk, Monty Python Ministry of Silly Walks",Walking,8.0,8.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+11050,"Carrying heavy loads (e.g., bricks, tools) ",Carrying heavy loads (e.g.,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+11060,"Carrying moderate loads up stairs, moving  boxes, 25-49 lbs",Carrying moderate loads up stairs,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+1030,"Bicycling, 12-13.9 mph, leisure, moderate effort",Cycling,8.0,8.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+11262,"Forestry, ax chopping, fast, 1.25 kg axe, 35  blows/min, vigorous effort ",Forestry,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+2153,"Yoga, Hatha, high intensity",Yoga,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+11245,"Fire fighter, raising and climbing ladder with  full gear, simulated fire suppression ",Fire fighter,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+11240,"Fire fighter, general ",Fire fighter,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+1228,"Bicycling, stationary, 126-150 watts",Cycling,8.0,8.0,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+17090,"Marching rapidly, military, no pack",Marching rapidly,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+19170,"Skiing, downhill, alpine or snowboarding, vigorous effort, active time only",Skiing,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+15460,Lacrosse,Lacrosse,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+12585,"Running, jogging stroller, indoors, 5 mph",Running,8.0,8.0,Berat,True,None,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+15330,"Handball, team",Handball,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+15250,"Frisbee, ultimate",Frisbee,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+15040,"Basketball, game (Taylor Code 490)",Basketball,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+15142,"Coaching, actively playing sport with players",Coaching,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+15230,"Football, touch, flag, general (Taylor Code 510)",Football,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+12190,"Running, training, pushing a wheelchair or baby carrier",Running,8.0,8.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+2006,"Aerobic dance, high impact, vigorous effort ",Aerobic dance,8.0,8.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+12150,Running (Taylor Code 200),Running,8.0,8.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",280.0
+15510,"Polo, on horseback",Polo,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+15210,"Football, competitive",Football,8.0,8.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",280.0
+2280,"Virtual Reality Fitness,  Supernatural™ “Flow”, “Boxing"" vigorous intensity",Virtual Reality Fitness,7.9,7.9,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",276.5
+17475,"Walking treadmill, backwards, 2.5 mph, +10% grade",Walking,7.8,7.8,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",273.0
+11390,"Horse racing, galloping, cantor ",Horse racing,7.8,7.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",273.0
+17325,"Walking, backward, 3.5 mph, uphill, 5% grade",Walking,7.8,7.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",273.0
+17012,"Backpacking,  hiking with a daypack, organized walking with daypack",Backpacking,7.8,7.8,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",273.0
+15350,"Hockey, field",Hockey,7.8,7.8,Berat,False,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",273.0
+12555,"Running, barefoot, 3.5-5.9 mph",Running,7.8,7.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",273.0
+11790,"Using heavy tools (not power) such as shovel,  pick, tunnel bar, spade ",Using heavy tools (not power) such as shovel,7.8,7.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",273.0
+15195,Futsal,Futsal,7.8,7.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",273.0
+2004,"Bench step class, general ",Bench step class,7.8,7.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",273.0
+2062,"Health club exercise, conditioning classes",Health club exercise,7.8,7.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",273.0
+11145,"Farming, vigorous effort (e.g., baling hay,  cleaning barn), includes former code 11200 ",Farming,7.8,7.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",273.0
+12029,Running 4.3 to 4.8 mph,Running,7.8,7.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",273.0
+15120,"Boxing, sparring",Boxing,7.8,7.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",273.0
+18358,"Water aerobics, high intensity",Water aerobics,7.5,7.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",262.5
+2020,"Calisthenics (e.g., pushups, sit ups, pull-ups, jumping jacks, burpees, battling ropes), vigorous effort",Calisthenics (e.g.,7.5,7.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",262.5
+11490,"Moving, carrying or pushing heavy objects, 75  lbs or more, only active time (e.g., desks,  moving van work)",Moving,7.5,7.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",262.5
+17136,"Stair climbing, two steps at a time",Stair climbing,7.5,7.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",262.5
+12020,"Jogging, general, self-selected pace",Running,7.5,7.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",262.5
+18432,"Aquatic cycling, 100 W, 60-70 RPM",Aquatic cycling,7.5,7.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",262.5
+2072,"Rowing, stationary, 100 to 149 watts, vigorous effort",Rowing,7.5,7.5,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",262.5
+19005,"Dog sledding, mushing",Dog sledding,7.5,7.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",262.5
+17138,"Stair climbing, ascending and descending stairs",Stair climbing,7.5,7.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",262.5
+12353,"Running downhill, 6.0 to 6.9 mph, -10% to -15%",Running,7.5,7.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",262.5
+15055,"Basketball, general",Basketball,7.5,7.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",262.5
+2040,"Circuit training, including kettlebells, some aerobic movement with minimal rest, general, vigorous intensity",Circuit training,7.5,7.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",262.5
+17050,"Climbing hills, 21 to 40 lb load, 3 to 10% grade, moderate-to-brisk pace",Climbing hills,7.5,7.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",262.5
+19201,"Snowboarding, recreational, moderate pace, mountain",Snowboarding,7.5,7.5,Berat,False,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",262.5
+8202,"Shoveling snow, by hand, vigorous effort",Shoveling snow,7.5,7.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",262.5
+15591,"Roller blading, in-line skating, 14.4 km/h (9.0 mph), recreational pace",Roller blading,7.5,7.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",262.5
+19254,"Snow shoveling, by hand, vigorous effort",Snow shoveling,7.5,7.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",262.5
+18375,"Water running, 40 steps/min, moderate",Water running,7.5,7.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",262.5
+22320,"Active video game, motion sensing game/using total body, exergames, workouts, dancing (vigorous effort) ",Active video game,7.5,7.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",262.5
+2002,"Aerobic, step, with 6 – 8 inch step ",Aerobic,7.3,7.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",255.5
+2000,"Aerobic, general ",Aerobic,7.3,7.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",255.5
+19174,"Skiing, Alpine skiing high-intensity training",Skiing,7.3,7.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",255.5
+11380,"Horse grooming, including feeding, cleaning  stalls, bathing, brushing, clipping, longeing and  exercising horses.",Horse grooming,7.3,7.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",255.5
+8052,"Digging, spading, filling garden, composting, vigorous effort",Digging,7.3,7.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",255.5
+11850,"Walking or walk downstairs or standing,  carrying objects about 100 lbs or more ",Walking,7.3,7.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",255.5
+11540,"Shoveling, digging ditches ",Shoveling,7.3,7.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",255.5
+3029,"Chinese square dance, aerobic dance",Chinese square dance,7.3,7.3,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",255.5
+15535,"Rock climbing, ascending rock, high difficulty",Rock climbing,7.3,7.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",255.5
+15652,"Squash, general",Squash,7.3,7.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",255.5
+15395,"Horseback riding, canter or gallop",Horseback riding,7.3,7.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",255.5
+15457,Kickboxing,Kickboxing,7.3,7.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",255.5
+2070,"Rowing, stationary ergometer, general, vigorous effort",Rowing,7.3,7.3,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",255.5
+15113,"Boxing, punching bag, 60 b/min",Boxing,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+15530,"Racquetball, general (Taylor Code 470)",Racquetball,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+15546,"Rodeo sports, general, vigorous effort",Rodeo sports,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+15477,Netball,Netball,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+15450,Kickball,Kickball,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+17010,Backpacking (Taylor Code 050),Backpacking (Taylor Code 050),7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+15590,"Skating, roller (Taylor Code 360)",Skating,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+15020,"Badminton, competitive (Taylor Code 450)",Badminton,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+11840,"Walking or walk downstairs or standing,  carrying objects about 75 to 99 lbs ",Walking,7.0,7.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",245.0
+15610,"Soccer, casual, general (Taylor Code 540)",Soccer,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+15060,"Basketball, officiating (Taylor Code 500)",Basketball,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+3086,"Polynesian dance, Hawaiian hula fast, Samoan sasa, Fijian style fast, Filipino Tinikling",Polynesian dance,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+2210,"High intensity interval exercise,  moderate effort",High intensity interval exercise,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+15731,"Wallyball, general",Wallyball,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+17035,"Climbing hills, no load, 6 to 10% grade, moderate-to-brisk pace",Climbing hills,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+15130,Broomball,Broomball,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+19075,"Skiing, general",Skiing,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+18160,"Jet skiing, driving, in water ",Jet skiing,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+18200,"Skindiving, scuba diving, general (Taylor Code 310) ",Skindiving,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+18320,"Swimming, sidestroke, general ",Swimming,7.0,7.0,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",245.0
+1016,"Bicycling, self-selected moderate pace",Cycling,7.0,7.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",245.0
+19030,"Skating, ice, general (Taylor Code 360)",Skating,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+19060,"Ski jumping, climb up carrying skis",Ski jumping,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+11042,"Carpentry, general, heavy or vigorous effort ",Carpentry,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+17230,"Walking, 4.5 to 4.9 mph, level, firm surface, very, very brisk",Walking,7.0,7.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",245.0
+19180,"Sledding, tobogganing, bobsledding, luge (Taylor Code 370)",Sledding,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+17142,"Using crutches, fast pace",Using crutches,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+18030,"Canoeing, portaging ",Canoeing,7.0,7.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",245.0
+1014,"Bicycling, general",Cycling,7.0,7.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",245.0
+1200,"Bicycling, stationary, general",Cycling,6.8,6.8,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+1011,"Bicycling, to/from work, self selected pace",Cycling,6.8,6.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+16005,E-bike (electrically assisted) for transportation,Cycling,6.8,6.8,Berat,False,Bicycle,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",238.0
+2205,"Native New Zealander PA, general, vigorous effort",Native New Zealander PA,6.8,6.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",238.0
+1020,"Bicycling, 10-11.9 mph, leisure, slow, light effort",Cycling,6.8,6.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+19310,"Rollerskiing, 13 - 16.9 km/h, no incline",Rollerskiing,6.8,6.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",238.0
+15675,"Tennis, general, moderate effort",Tennis,6.8,6.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",238.0
+18208,"Scuba diving, recreational diver",Scuba diving,6.8,6.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",238.0
+18221,"Surfboard, paddling",Surfboard,6.8,6.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",238.0
+15595,"Skateboard, longboard, 13.3 km/h, slow speed",Skateboard,6.8,6.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",238.0
+19080,"Skiing, cross country, 2.5 mph, slow or light effort, ski walking",Skiing,6.8,6.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+1080,E-bike (electrically assisted) without electronic support,Cycling,6.8,6.8,Berat,False,Bicycle,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",238.0
+3012,"Ballet, modern, or jazz, performance, vigorous effort ",Ballet,6.8,6.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",238.0
+18369,"Water walking, vigorous effort, brisk pace ",Water walking,6.8,6.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+1224,"Bicycling, stationary, 101-125 watts",Cycling,6.8,6.8,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+2110,"Teaching exercise classes (e.g., aerobic, water)",Teaching exercise classes (e.g.,6.8,6.8,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+2080,"Ski machine, general",Ski machine,6.8,6.8,Berat,False,Exercise machine,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",238.0
+17131,"Stair climbing, general ",Stair climbing,6.8,6.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",238.0
+11244,"Fire fighter, rescue victim, automobile  accident, using pike pole ",Fire fighter,6.8,6.8,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",238.0
+17364,"Walking, treadmill, 4.5 to 4.9 mph (7.2 to 7.9 km/h), 0% grade",Walking,6.8,6.8,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",238.0
+11766,"Truck driving, loading and unloading truck,  tying down load, standing, walking and  carrying heavy loads",Truck driving,6.5,6.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",227.5
+5132,"Scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, vigorous effort",Scrubbing floors,6.5,6.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",227.5
+15444,"Kendu, kihon-keiko style, moderate intensity",Kendu,6.5,6.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",227.5
+15506,Prusik climbing,Prusik climbing,6.5,6.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",227.5
+17045,"Climbing hills, 10 to 20 lb load, 5 to 10% grade, moderate ",Climbing hills,6.5,6.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",227.5
+8020,"Chopping wood, splitting logs, vigorous effort",Chopping wood,6.5,6.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",227.5
+11570,"Shoveling, 10 to 15 lbs/minute, vigorous effort ",Shoveling,6.5,6.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",227.5
+12408,"Running/jogging, curved treadmill, 4.0 to 4.9 mph",Running,6.5,6.5,Berat,True,Treadmill,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",227.5
+12028,"Running, 4 to 4.2 mph (13 min/mile)",Running,6.5,6.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",227.5
+18374,"Water running, 30 steps/min, slow",Water running,6.5,6.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",227.5
+2310,"Zumba, group class",Zumba,6.5,6.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",227.5
+18224,"Stand up paddle boarding, general ",Stand up paddle boarding,6.5,6.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",227.5
+17019,"Carrying 50 to 150 pound load (e.g., equine or bovine feed, fence pipes, furniture), level ground, moderate pace",Carrying 50 to 150 pound load (e.g.,6.5,6.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",227.5
+17110,Race walking,Race walking,6.5,6.5,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",227.5
+11477,"Manual or unskilled labor, general, vigorous effort ",Manual or unskilled labor,6.5,6.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",227.5
+2057,"Body weight resistance exercises (e.g., squat, lunge, push-up, crunch), high intensity",Body weight resistance exercises (e.g.,6.5,6.5,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",227.5
+18424,"Aquatic cycling, 75 W, 60-70 RPM",Aquatic cycling,6.3,6.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",220.5
+18428,"Aquatic cycling, 100 W, 40-50 RPM",Aquatic cycling,6.3,6.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",220.5
+11886,"Soldiers, military loaded marching, varying terrain, 25-40 kg load ",Soldiers,6.3,6.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",220.5
+11110,"Coal mining, shoveling coal, by hand ",Coal mining,6.3,6.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",220.5
+11780,"Using heavy power tools such as pneumatic  tools (e.g., jackhammers, drills, etc.)",Using heavy power tools such as pneumatic  tools (e.g.,6.3,6.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",220.5
+15700,"Trampoline, recreational",Trampoline,6.3,6.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",220.5
+15562,"Rugby, touch, non-competitive",Rugby,6.3,6.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",220.5
+19160,"Skiing, downhill, alpine or snowboarding, moderate effort, general, active time only",Skiing,6.3,6.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",220.5
+8030,"Clearing land, haul brush, undergrowth, or ground, vigorous effort",Clearing land,6.3,6.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",220.5
+3091,"Salsa dancing, to a video",Salsa dancing,6.3,6.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",220.5
+3011,"Ballet exercises (plie, tendus, jetes, rond de Jambes, fondus, grand battement, grand adage, sautes, temp Leve's)",Ballet exercises (plie,6.3,6.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",220.5
+16035,Pulling rickshaw,Pulling rickshaw,6.3,6.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",220.5
+8080,Laying crushed rock or gravel,Laying crushed rock or gravel,6.3,6.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",220.5
+11400,"Horse racing, Jockey, trotting ",Horse racing,6.3,6.3,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",220.5
+3042,"Ballroom Dance, Recreational (Waltz, Foxtrot, Cha-cha, Swing)",Ballroom Dance,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+15500,"Paddleball, casual, general (Taylor Code 460)",Paddleball,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+1220,"Bicycling, stationary, 90-100 watts,  moderate to vigorous",Cycling,6.0,6.0,Berat,True,Stationary bike,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",210.0
+18416,"Aquatic cycling,  50 W, 60-70 RPM",Aquatic cycling,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+11030,"Building road, driving heavy machinery ",Building road,6.0,6.0,Berat,False,Exercise machine,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+4110,"Hunting, pheasants or grouse (Taylor Code 680)",Hunting,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+1084,E-bike (electrically assisted) with light electronic support,Cycling,6.0,6.0,Berat,False,Bicycle,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+2032,"Circuit training, body weight exercises",Circuit training,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+15138,"Cheerleading, gymnastic moves, competitive",Cheerleading,6.0,6.0,Berat,False,None,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+2145,"Video, exercise workouts, TV conditioning programs (e.g., cardio-resistance training), vigorous",Video,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+15190,"Drag racing, pushing or driving a car",Drag racing,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+15200,"Fencing, general",Fencing,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+6050,"Carpentry, outside house, (Taylor Code 640)",Carpentry,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+15050,"Basketball, non-game, general (Taylor Code 480)",Basketball,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+6070,"Carpentry, sawing hardwood, planing and drilling wood, moderate-to-vigorous effort",Carpentry,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+4050,"Fishing in stream, in waders (Taylor Code 670)",Fishing in stream,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+19010,"Moving icehouse, set up/drill holes",Moving icehouse,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+6128,"Home repair, general, vigorous effort",Home Activities,6.0,6.0,Berat,False,None,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+17080,"Hiking, cross country (Taylor Code 040)",Hiking,6.0,6.0,Berat,True,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",210.0
+4080,"Hunting, deer, elk, large game (Taylor Code 170)",Hunting,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+2050,"Resistance (weight lifting - free weight, nautilus or universal-type), power lifting or body building, vigorous effort (Taylor Code 210)",Resistance (weight lifting - free weight,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+8110,"Mowing lawn, hand mower, vigorous effort (Taylor Code 570)",Mowing lawn,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+6180,Roofing,Roofing,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+15403,"Horseback riding, reining",Horseback riding,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+5045,"Butchering animals, large, vigorous effort",Butchering animals,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+16040,Pushing plane in and out of hangar,Pushing plane in and out of hangar,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+17320,"Walking, backward, 3.5 mph, level",Walking,6.0,6.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",210.0
+11892,"Military activities, arterial field preparation, digging defensive positions",Military activities,6.0,6.0,Berat,False,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+15680,"Tennis, doubles (Taylor Code 430)",Tennis,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+15711,"Volleyball, competitive, in gymnasium",Volleyball,6.0,6.0,Berat,False,None,Indoor,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+17027,"Carrying load, 16 to 24 lb load, upstairs",Carrying load,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+15674,"Tai chi chuan, Yang style",Tai chi chuan,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+15640,"Softball, pitching",Softball,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+15730,"Wrestling, competitive (one match = 5 minutes)",Wrestling,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+8262,"Yardwork, general, vigorous effort",Yardwork,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+18150,"Skiing, water or wake boarding (Taylor Code 220) ",Skiing,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+15733,"Track and field (e.g., high jump, long jump, triple jump, javelin, pole vault)",Track and field (e.g.,6.0,6.0,Berat,False,None,Outdoor,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+3005,"Afro-Cuban salsa (Cuban cha-cha-cha, mambo, Afro rumba, contratiempo son steps, orisha/santo movements)",Afro-Cuban salsa (Cuban cha-cha-cha,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+2090,"Slimnastics, jazzercise",Slimnastics,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+8200,"Shoveling snow, by hand (Taylor Code 610)",Shoveling snow,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+15582,"Skateboarding, competitive, vigorous effort",Skateboarding,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+11887,"Soldiers, walking, 2.8 mph, 5% grade, up to 21.5 kg load",Soldiers,6.0,6.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",210.0
+8256,"Wheel barrow, pushing large garden cart or heavy wheelbarrow up to 150kg",Wheel barrow,6.0,6.0,Berat,False,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, muscle_tone",210.0
+18310,"Swimming, leisurely, not lap swimming, general ",Swimming,6.0,6.0,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",210.0
+12010,Jog/walk combination (jogging component of less than 10 minutes) (Taylor Code 180),Jog/walk combination (jogging component of less than 10 minutes) (Taylor Code 180),6.0,6.0,Berat,True,None,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",210.0
+18300,"Swimming, lake, ocean, river (Taylor Codes 280,  295) ",Swimming,6.0,6.0,Berat,True,Swimming pool,Both,15-30 menit,2-3 kali/minggu,"weight_loss, cardiovascular_health, muscle_tone",210.0
+12352,"Running downhill, 5.0 to 5.9 mph, -10% to -15%",Running,5.8,5.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+1013,"Bicycling, on dirt or farm road, moderate pace",Cycling,5.8,5.8,Sedang,True,None,Outdoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+21019,"Walk/run play with children, vigorous, only active periods",Walk/run play with children,5.8,5.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,203.0
+18204,"Scuba diving, general, moderate effort",Scuba diving,5.8,5.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,203.0
+14010,"Active, vigorous effort",Active,5.8,5.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,203.0
+15390,"Horseback riding, trotting",Horseback riding,5.8,5.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,203.0
+15135,"Children’s games, adults playing  (e.g., hopscotch, 4-square, dodge ball, playground apparatus, t-ball,  tetherball, marbles, jacks, arcade games), moderate effort",Children’s games,5.8,5.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,203.0
+15537,"Rock climbing, ascending or traversing rock, low-to-moderate difficulty",Rock climbing,5.8,5.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,203.0
+3085,"Polynesian dance, Hawaiian hula slow, Maori haka, Tongan",Polynesian dance,5.8,5.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,203.0
+17438,"Walking, treadmill, 2.5 mph, 0% grade, -10 to 0 degrees C, 40 lb (18.2 kg) load",Walking,5.8,5.8,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+17361,"Walking, treadmill, 4.0 to 4.4 mph (6.4 to 7.1 km/h), 0% grade",Walking,5.8,5.8,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+15110,"Boxing, punching bag",Boxing,5.8,5.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,203.0
+1218,"Bicycling, stationary, 70-80 watts",Cycling,5.8,5.8,Sedang,True,Stationary bike,Indoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+2230,Hooping (formerly known as hula® hooping),Hooping (formerly known as hula® hooping),5.8,5.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,203.0
+2055,"Resistance Training, circuit, reciprocol supersets, peripheral hear action training",Resistance Training,5.8,5.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,203.0
+8060,"Gardening with heavy power tools, using chain saw, tilling a garden",Yard Work,5.8,5.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,203.0
+1019,"Bicycling, leisure, 9.4 mph",Cycling,5.8,5.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+5120,"Moving furniture, household items, carrying boxes",Moving furniture,5.8,5.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,203.0
+18050,"Canoeing, rowing, 4.0-5.9 mph, moderate effort ",Canoeing,5.8,5.8,Sedang,True,Rowing machine,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+15062,"Basketball, officiating",Basketball,5.8,5.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,203.0
+5180,"Walking/running, playing with child(ren), vigorous effort, only active periods",Walking,5.8,5.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+18240,"Swimming laps, freestyle, slow, recreational ",Swimming,5.8,5.8,Sedang,True,Swimming pool,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+18292,"Swimming, crawl, slow speed, 30-45 yards/minute, moderate effort  ",Swimming,5.8,5.8,Sedang,True,Swimming pool,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",203.0
+3093,"Square Dancing, American Western, country",Square Dancing,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+10131,"Marching band, playing an instrument, walking, brisk pace, general",Marching band,5.5,5.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",192.5
+15030,"Badminton, social singles and doubles, general",Badminton,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+19305,"Rollerskiing, 10 - 12.9 km/h, no incline",Rollerskiing,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+11485,"Massage therapist, standing ",Massage therapist,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+2001,"Aerobic, step, with 4-inch step ",Aerobic,5.5,5.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",192.5
+15000,"Alaska Native Games, Eskimo Olympics, general",Alaska Native Games,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+17220,"Walking, 4.0 to 4.4 mph (6.4 to 7.0 km/h), level, firm surface, very brisk pace",Walking,5.5,5.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",192.5
+15544,"Rodeo sports, general, moderate effort",Rodeo sports,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+3050,"Anishinaabe Jingle dancing, brisk pace, other traditional American Indian dancing performed by women, moderate effort",Anishinaabe Jingle dancing,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+2315,"Zumba, home video",Zumba,5.5,5.5,Sedang,False,None,Indoor,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+3028,"Chinese square dance, Ballet & Tibetan dance",Chinese square dance,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+18355,"Water aerobics, water calisthenics, general",Water aerobics,5.5,5.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",192.5
+8095,"Mowing lawn, general, walking, moderate effort",Mowing lawn,5.5,5.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",192.5
+2060,"Health club exercise, general (Taylor Code 160)",Health club exercise,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+3030,"Ballroom dancing, fast (Taylor Code 125) ",Ballroom dancing,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+8192,Shoveling dirt or mud,Shoveling dirt or mud,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+8010,"Carrying, loading or stacking wood, loading/unloading or carrying lumber, moderate effort",Carrying,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+15455,Kung Fu Gymnastics,Kung Fu Gymnastics,5.5,5.5,Sedang,False,None,Indoor,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+17026,"Carrying load, 1 to 15 lb load, upstairs",Carrying load,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+18206,"Scuba diving, professional diver",Scuba diving,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+11830,"Walking or walk downstairs or standing,  carrying objects about 50 to 74 lbs ",Walking,5.5,5.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",192.5
+19020,"Skating, ice, 9 mph or less",Skating,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+11100,"Coal mining, general ",Coal mining,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+15370,"Horseback riding, general",Horseback riding,5.5,5.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,192.5
+1252,"Bicycling, concentric only, 100 W",Cycling,5.5,5.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",192.5
+17304,"Walking, for exercise, 3.6 to 4.4 mph (5.8 to 7.1 km/h), with ski poles, Nordic walking, level, moderate pace",Walking,5.3,5.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",185.5
+19190,"Snow shoeing, moderate effort",Snow shoeing,5.3,5.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,185.5
+18265,"Swimming breaststroke, recreational ",Swimming,5.3,5.3,Sedang,True,Swimming pool,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",185.5
+19252,"Snow shoveling, by hand, moderate effort",Snow shoveling,5.3,5.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,185.5
+15425,"Martial Arts, different types, slower pace, novice performers, practice",Martial Arts,5.3,5.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,185.5
+15475,"Motorcycle racing, Supormoto racing",Motorcycle racing,5.3,5.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,185.5
+2120,"Water aerobics, water calisthenics, water exercise",Water aerobics,5.3,5.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",185.5
+17034,"Climbing hills, no load, 1 to 5% grade, moderate-to-brisk pace",Climbing hills,5.3,5.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,185.5
+2200,"Native New Zealander PA, (e.g., Haka Powhiri, Poi, Moteatea, etc.), general moderate effort",Native New Zealander PA,5.3,5.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,185.5
+18202,"Scuba diving, general, light effort",Scuba diving,5.3,5.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,185.5
+17082,"Hiking or walking at a normal pace through fields and hillsides, no load",Hiking or walking at a normal pace through fields and hillsides,5.3,5.3,Sedang,True,None,Outdoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",185.5
+12405,"Running/jogging, curved treadmill, 3.0 to 3.9 mph",Running,5.3,5.3,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",185.5
+11080,"Coal mining, drilling coal, rock ",Coal mining,5.3,5.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,185.5
+8058,"Felling trees, small-medium size",Felling trees,5.3,5.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,185.5
+5056,Carrying groceries upstairs,Carrying groceries upstairs,5.3,5.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,185.5
+11708,"Steel mill, moderate effort (e.g., fettling,  forging, tipping molds) ",Steel mill,5.3,5.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,185.5
+8195,"Shoveling snow, by hand, moderate effort",Shoveling snow,5.3,5.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,185.5
+11002,"Active workstation, Pedal desk (80 watts)",Active workstation,5.3,5.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,185.5
+18210,Snorkeling (Taylor Code 320) ,Snorkeling (Taylor Code 320),5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+6210,Spreading dirt with a shovel,Spreading dirt with a shovel,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+2052,"Resistance (weight) training, squats, deadlift, slow or explosive effort",Resistance (weight) training,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+11450,"Machine tooling, operating punch press,  moderate effort ",Machine tooling,5.0,5.0,Sedang,False,Exercise machine,Indoor,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+3033,"Folk dancing, moderate effort",Folk dancing,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+18420,"Aquatic cycling, 75 W, 40-50 RPM",Aquatic cycling,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+5194,"Walk/run, playing with animals, vigorous effort, only active periods",Walk/run,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+1216,"Bicycling, stationary, 60 watts, light to moderate effort",Cycling,5.0,5.0,Sedang,True,Stationary bike,Indoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",175.0
+17032,"Climbing hills, no load, 5 to 20% grade, very slow pace",Climbing hills,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+11264,"Forestry, moderate effort (e.g., sawing wood  with power saw, weeding, hoeing) ",Forestry,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+11260,"Forestry, ax chopping, slow, 1.25 kg axe, 19  blows/min, moderate effort ",Forestry,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+20040,"Praise with dance or run, spiritual dancing in church",Praise with dance or run,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+5121,"Moving, lifting light loads",Moving,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+15540,"Rock climbing, rappelling,",Rock climbing,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+6080,"Caulking, chinking log cabin",Caulking,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+8040,"Digging sandbox, shoveling sand",Digging sandbox,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+8241,"Weeding, cultivating garden, using hoe moderate-to-vigorous effort",Weeding,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+6122,Hanging sheet rock inside house,Hanging sheet rock inside house,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+6120,Hanging storm windows,Hanging storm windows,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+6150,"Painting, outside home (Taylor Code 650)",Painting,5.0,5.0,Sedang,False,None,Indoor,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+15695,"Tennis, hitting balls, non-game play, moderate effort",Tennis,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+2035,"Circuit training, moderate effort",Circuit training,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+6110,Excavating garage,Excavating garage,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+11884,"Airborne Shuffle, 2.5 to 3.5 mph, 20-30 kg load",Airborne Shuffle,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+5110,"Maple syruping/sugar bushing (including carrying buckets, carrying wood)",Maple syruping/sugar bushing (including carrying buckets,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+15580,"Skateboarding, general, moderate effort",Skateboarding,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+2008,"Army type obstacle course exercise, boot camp training program",Army type obstacle course exercise,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+6100,Cleaning gutters,Cleaning gutters,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+3010,"Ballet, modern, or jazz general, rehearsal or class ",Ballet,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+2048,"Elliptical trainer, moderate effort",Elliptical trainer,5.0,5.0,Sedang,True,Elliptical trainer,Indoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",175.0
+11560,"Shoveling, less than 10 lbs/minute, moderate  effort ",Shoveling,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+18380,"Windsurfing, not pumping for speed ",Windsurfing,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+11248,"Fishing, commercial, moderate effort ",Fishing,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+8120,"Mowing lawn, walk, power mower,  moderate or vigorous effort",Mowing lawn,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+18370,"Whitewater rafting, kayaking, or canoeing ",Whitewater rafting,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+18222,"Surfing, body or board, competitive ",Surfing,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+22280,"Active video game, motion sensing game/using total body (moderate-to-vigorous effort)",Active video game,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+18227,"Stand up Paddleboard, standing, 30-39 strokes/min",Stand up Paddleboard,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+15070,"Basketball, shooting baskets",Basketball,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+2071,"Rowing, stationary ergometer, general, <100 watts,  moderate effort",Rowing,5.0,5.0,Sedang,True,Stationary bike,Indoor,30-45 menit,3-5 kali/minggu,"cardiovascular_health, muscle_tone",175.0
+18100,"Kayaking, moderate effort ",Kayaking,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+2061,"Health club exercise classes general, gym/weight training combined in one visit",Health club exercise classes general,5.0,5.0,Sedang,False,None,Indoor,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+8090,Laying sod,Laying sod,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+11090,"Coal mining, erecting supports ",Coal mining,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+15620,"Softball or baseball, fast or slow pitch, general, moderate effort (Taylor Code 440)",Softball or baseball,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+4120,"Hunting, rabbit, squirrel, prairie chick, raccoon, small game (Taylor Code 690)",Hunting,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+8050,"Digging, spading, filling garden, composting (Taylor Code 590)",Digging,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+1070,Unicycling,Unicycling,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+4100,"Hunting, general",Hunting,5.0,5.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,175.0
+5125,Organizing a room,Organizing a room,4.8,4.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,168.0
+2005,"Aerobic dance, low impact, moderate effort ",Aerobic dance,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+15150,"Cricket, batting, bowling, fielding",Cricket,4.8,4.8,Sedang,False,None,Outdoor,30-45 menit,3-5 kali/minggu,general_fitness,168.0
+11793,"Walking on job, 3.5 to 3.9 mph, in office, brisk speed,  not carrying anything ",Walking,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+8255,"Wheel barrow, pushing garden cart or wheelbarrow, general",Wheel barrow,4.8,4.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,168.0
+3090,"Salsa Dancing, with partner",Salsa Dancing,4.8,4.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,168.0
+18255,"Swimming, backstroke, recreational ",Swimming,4.8,4.8,Sedang,True,Swimming pool,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+12025,"Jogging, in place",Running,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+17434,"Walking, treadmill, 2.5 mph, 0% grade, 5 to 20 degrees C, 40 lb (18.2 kg) load",Walking,4.8,4.8,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+3014,Tap ,Tap,4.8,4.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,168.0
+21050,"Walking, 3.5 to 3.9 mph, brisk speed, not carrying anything",Walking,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+17358,"Walking, treadmill, 3.5 to 3.9 mph (5.6 to 6.3 km/h), 0% grade",Walking,4.8,4.8,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+11146,"Farming, moderate effort (e.g., feeding  animals, chasing cattle by walking and/or  horseback, spreading manure, harvesting crops)",Farming,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+18368,"Water walking, moderate effort, moderate pace ",Water walking,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+17260,"Walking, grass track",Walking,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+20038,"Walking, 3.5 to 3.9 mph, brisk speed, not carrying anything",Walking,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+17200,"Walking, 3.5 to 3.9 mph, level, brisk, firm surface, walking for exercise",Walking,4.8,4.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,168.0
+11370,Furriery,Furriery,4.8,4.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,168.0
+18408,"Aquatic cycling, 25 W, 60-70 RPM",Aquatic cycling,4.8,4.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,168.0
+11008,Apple Harvesting,Apple Harvesting,4.8,4.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,168.0
+8240,"Weeding, cultivating garden, moderate effort (Taylor Code 580)",Weeding,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+11383,"Horseback riding, working, cutting cows",Horseback riding,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+11630,"Standing, moderate/heavy tasks (e.g., lifting  more than 50 lbs, masonry, painting, paper  hanging)",Standing,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+11476,"Manual or unskilled labor, general, moderate effort ",Manual or unskilled labor,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+8248,"Harvesting Produce, Picking fruit off trees, gleaning fruits, picking fruits/vegetables, climbing ladder to pick fruit, vigorous effort",Harvesting Produce,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+18130,"Sailing, in competition, general  ",Sailing,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+11192,"Farming, taking care of animals (e.g.,  grooming, brushing, shearing sheep, assisting  with birthing, medical care, branding), general",Farming,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+6130,Laying or removing carpet,Laying or removing carpet,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+17133,"Stair climbing, slow pace",Stair climbing,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+15685,"Tennis, doubles",Tennis,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+17088,"Marching, moderate speed, military, no pack",Marching,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+8019,"Chopping wood, splitting logs, moderate effort",Chopping wood,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+17140,"Using crutches, level ground, general ",Using crutches,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+17262,"Walking, normal pace, plowed field or sand",Walking,4.5,4.5,Sedang,True,None,Outdoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+2108,"Pole dancing, exercise class",Pole dancing,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+17076,"Hauling water, head hauling, walking on flat surface",Hauling water,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+8150,Planting trees,Planting trees,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+6165,Painting (Taylor Code 630),Painting (Taylor Code 630),4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+6230,"Washing fence, painting fence, moderate effort",Washing fence,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+6127,"Home repair, general, moderate effort",Home Activities,4.5,4.5,Sedang,False,None,Indoor,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+8125,"Mowing lawn, power mower, light or moderate effort (Taylor Code 590)",Mowing lawn,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+6220,Washing and waxing hull of sailboat or airplane,Washing and waxing hull of sailboat or airplane,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+6200,Scraping and painting sailboat or powerboat,Scraping and painting sailboat or powerboat,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+17018,"Carrying 15 - 155 lb (6.8 - 70.4 kg) load (e.g. suitcase, boxes, furniture), level ground or downstairs, slow pace",Carrying 15 - 155 lb (6.8 - 70.4 kg) load (e.g. suitcase,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+6190,Sanding floors with a power sander,Sanding floors with a power sander,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+11615,"Standing, moderate effort, lifting items  continuously, 10 – 20 lbs, with limited walking  or resting",Standing,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+21065,"Walking, 3.5 mph, briskly and carrying objects less than 25 pounds",Walking,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+11810,"Walking, 3.5 mph, briskly and carrying objects  less than 25 lbs ",Walking,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+6090,"Caulking, except log cabin",Caulking,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+15255,"Golf, general",Golf,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+12027,Jogging on a mini-tramp,Running,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+15285,"Golf, walking, pulling clubs",Golf,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+21060,"Walking, 3.0 mph moderately and carrying objects less than 25 pounds, pushing something",Walking,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+5024,"Polishing floors, standing, walking slowly, using electric polishing machine",Polishing floors,4.5,4.5,Sedang,True,Exercise machine,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+21030,"Standing, moderate/heavy work",Standing,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+3025,"Ethnic or cultural dancing (e.g. Greek, Middle Eastern, hula, salsa, merengue, bamba y plena,  flamenco, belly, and swing)",Ethnic or cultural dancing (e.g. Greek,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+3078,"Jazz dancing, general",Jazz dancing,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+4005,"Fishing, crab fishing",Fishing,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+15380,"Horse grooming, maintenance, saddling tasks",Horse grooming,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+20095,"Standing, moderate-to-heavy effort, manual labor, lifting ? 50 lbs, heavy maintenance",Standing,4.5,4.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,157.5
+11800,"Walking, 3.0 mph, moderately and carrying  light objects less than 25 lbs ",Walking,4.5,4.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,157.5
+8140,"Planting seedlings, shrubs, stooping, moderate effort",Planting seedlings,4.3,4.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+3072,"Contemporary dancing, nightclub",Contemporary dancing,4.3,4.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+11191,"Farming, hauling water for animals, fetching  water from well or stream ",Farming,4.3,4.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+15265,"Golf, walking, carrying clubs",Golf,4.3,4.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,150.5
+8145,"Planting crops or garden, stooping, moderate effort",Planting crops or garden,4.3,4.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+11381,"Horse, feeding, watering, cleaning stalls, implied walking and lifting loads ",Horse,4.3,4.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,150.5
+17302,"Walking, for exercise, 2.5 to 3.5 mph (4.0 to 5.6 km/h), with ski poles, Nordic walking, level, moderate pace",Walking,4.3,4.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,150.5
+5027,"Multiple household tasks all at once, vigorous effort",Multiple household tasks all at once,4.3,4.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+17145,Using medical knee scooter,Using medical knee scooter,4.3,4.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+1015,"Bicycling, self-selected easy pace",Cycling,4.3,4.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,150.5
+11040,"Carpentry, general, moderate effort ",Carpentry,4.3,4.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+11072,"Cleaning, vacuuming commercial space",Cleaning,4.3,4.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+11190,"Farming, feeding cattle, horses ",Farming,4.3,4.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+11480,"Masonary, concrete, moderate effort ",Masonary,4.3,4.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+15010,Archery (non-hunting),Archery (non-hunting),4.3,4.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+2119,"Upper body exercise, stationary bicycle - Airdyne (arms only) 40 rpm, moderate intensity",Upper body exercise,4.3,4.3,Sedang,False,Stationary bike,Indoor,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+19150,"Skiing, downhill, alpine or snowboarding, light effort, active time only",Skiing,4.3,4.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+11862,"Warehouse/Shipping Center, Moving boxes (~5kg)",Warehouse/Shipping Center,4.3,4.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+4010,"Fishing related, digging worms, with shovel",Fishing related,4.3,4.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,150.5
+8009,"Carrying, loading or stacking wood, loading/unloading or carrying lumber, light-to- moderate effort",Carrying,4.1,4.1,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,143.5
+8160,"Raking lawn or leaves, moderate effort",Raking lawn or leaves,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+11120,"Construction, outside, remodeling, new  structures (e.g., roof repair, miscellaneous) ",Construction,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+17270,"Walking, to work or class (Taylor Code 015)",Walking,4.0,4.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+17255,"Walking, self-selected speed, indoor track or outdoors, firm surface",Walking,4.0,4.0,Sedang,True,None,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+4083,Hunting large marine animals,Hunting large marine animals,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+8070,"Irrigation channels, opening and closing ports",Irrigation channels,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+15140,"Coaching, football, soccer, basketball, baseball, swimming, etc.",Coaching,4.0,4.0,Sedang,True,Swimming pool,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+1264,"Bicycling, eccentric only, 200 W",Cycling,4.0,4.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+8261,"Yardwork, general, moderate effort",Yardwork,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+4007,"Fishing, catching fish with hands",Fishing,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+22240,"Active video game, motion sensing game/using total body (moderate effort)",Active video game,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+15170,Curling,Curling,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+8230,"Watering lawn or garden, standing or walking",Watering lawn or garden,4.0,4.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+2143,"Video, exercise workouts, TV conditioning programs (e.g., cardio-resistance training), moderate",Video,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+15335,"High ropes course, multiple elements",High ropes course,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+10130,"Marching band, baton twirling, walking, moderate pace, general",Marching band,4.0,4.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+11070,"Chambermaid, hotel housekeeper, making bed,  cleaning bathroom, pushing cart ",Chambermaid,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+11010,"Bakery, general, moderate effort ",Bakery,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+18110,Paddle boat ,Paddle boat,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+15232,"Football, touch, flag, light effort",Football,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+4020,Fishing from river bank and walking,Fishing from river bank and walking,4.0,4.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+15310,Hacky sack,Hacky sack,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+8190,"Sacking grass, leaves",Sacking grass,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+8170,Raking roof with snow rake,Raking roof with snow rake,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+8165,Raking lawn (Taylor Code 600),Raking lawn (Taylor Code 600),4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+18020,"Canoeing, on camping trip (Taylor Code 270) ",Canoeing,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+20061,General yard work at church,General yard work at church,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+15630,"Softball, officiating",Softball,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+15542,"Rodeo sports, general, light effort",Rodeo sports,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+5092,"Laundry,  moderate effort",Laundry,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+15732,"Track and field (e.g., shot, discus, hammer throw)",Track and field (e.g.,4.0,4.0,Sedang,False,None,Outdoor,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+11882,"Soldiers, military marching, 1.5-2.5 mph, 10 to 30 kg load",Soldiers,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+11528,"Police, making an arrest, standing ",Police,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+15470,"Motocross, off-road motor sports, all-terrain vehicle, general",Motocross,4.0,4.0,Sedang,False,None,Outdoor,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+6020,Automobile body work,Automobile body work,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+15710,Volleyball (Taylor Code 400),Volleyball (Taylor Code 400),4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+1214,"Bicycling, stationary, 50 watts, light effort",Cycling,4.0,4.0,Sedang,True,Stationary bike,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+1010,"Bicycling, <10 mph, leisure, to work or for pleasure (Taylor Code 115)",Cycling,4.0,4.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+2344,"Sit to stand exercise, 18-24 times/min",Sit to stand exercise,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+11820,"Walking or walk downstairs or standing,  carrying objects about 25 to 49 lbs ",Walking,4.0,4.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,140.0
+2160,"Yoga, Power",Yoga,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+11765,"Tailoring, weaving, moderate effort (e.g.,  spinning and weaving operations, delivering  boxes of yarn to spinners, loading of warp  bean, pinwinding, conewinding, warping, cloth  clutting)",Tailoring,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+5193,"Walk/run, playing with animals, moderate effort, only active periods",Walk/run,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+11415,"Lawn keeper, yardwork, general ",Yard Work,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+6072,"Carpentry, home remodeling tasks, moderate effort",Carpentry,4.0,4.0,Sedang,False,None,Indoor,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+15660,"Table tennis, ping pong (Taylor Code 410)",Table tennis,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+1088,E-bike (electrically assisted) with high electronic support,Cycling,4.0,4.0,Sedang,False,Bicycle,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+5048,"Tanning hides, general",Tanning hides,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+15440,Juggling,Juggling,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+15625,"Softball, practice",Softball,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+17016,"Carrying 5 to 14 lb (2.3 to 6.4 kg) load (e.g. suitcase, boxes, groceries), level ground, moderate pace ",Carrying 5 to 14 lb (2.3 to 6.4 kg) load (e.g. suitcase,4.0,4.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,140.0
+11524,"Police Officer, Walking",Walking,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+6052,"Carpentry, outside house, building a fence",Carpentry,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+15252,Frisbee golf,Frisbee golf,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+17100,"Pushing or pulling stroller with child or walking with children, 2.5 to 3.1 mph",Pushing or pulling stroller with child or walking with children,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+10040,"Drums, sitting",Drums,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+2064,"Home exercise, general",Home Activities,3.8,3.8,Sedang,False,None,Indoor,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+11620,"Standing, moderate effort, intermittent lifting  50 lbs, hitch or twisting ropes ",Standing,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+2022,"Calisthenics (e.g., pushups, sit ups, pull-ups, lunges), moderate effort",Calisthenics (e.g.,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+8210,"Trimming shrubs or trees, manual cutter",Trimming shrubs or trees,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+11805,"Walking, pushing a wheelchair ",Walking,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+11792,"Walking on job, 2.8 to 3.4 mph, in office, moderate  speed, not carrying anything ",Walking,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+8239,"Weeding, cultivating garden, light-to-moderate effort",Weeding,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+6140,Laying tile or linoleum,Laying tile or linoleum,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+18226,"Stand up Paddleboard, standing, 20-29 strokes/min",Stand up Paddleboard,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+15092,"Bowling, indoor, bowling alley",Bowling,3.8,3.8,Sedang,False,None,Indoor,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+8245,"Gardening, general, moderate effort",Yard Work,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+19200,"Snowmobiling, driving, moderate pace, flat land",Snowmobiling,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+17355,"Walking, treadmill, 3.0 to 3.4 mph (4.8 to 5.5 km/h), 0% grade",Walking,3.8,3.8,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+11126,"Custodial work, moderate effort (e.g., buffing  floors with electric buffer, feathering or  sweeping arena floors, mopping, taking out the  trash, vaccuming)",Custodial work,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+11195,"Farming, rice, planting, grain milling activities ",Farming,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+5012,"Cleaning, sweeping, fast, moderate effort",Cleaning,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+17190,"Walking, 2.8 to 3.4 mph, level, moderate pace, firm surface",Walking,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+17081,"Hiking slowly or ambling through fields and hillsides, no load ",Hiking slowly or ambling through fields and hillsides,3.8,3.8,Sedang,True,None,Outdoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+11797,"Walking, 2.5 mph, slow speed, carrying heavy  objects more than 25 lbs ",Walking,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+20065,"Standing , moderate effort (e.g., lifting heavy objects, assembling at fast rate)",Standing,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+5146,"Standing, packing/unpacking boxes, occasional lifting lightweight household items, loading or unloading items into a car, moderate effort",Standing,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,133.0
+4063,"Fishing, set net, setting net and retrieving fish, general",Fishing,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+20037,"Walking, 2.8 to 3.4 mph, moderate speed, not carrying anything",Walking,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+11375,"Garbage collector, walking, dumping bins into truck, street cleaning",Garbage collector,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+18412,"Aquatic cycling, 50 W, 40-50 RPM",Aquatic cycling,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+17033,"Climbing hills, 15-50 lb load, 1 to 2% grade, slow pace",Climbing hills,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+17031,"Loading  and/or unloading a car, implied walking",Loading  and/or unloading a car,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+21045,"Walking, 2.8 to 3.4 mph, moderate speed, not carrying anything",Walking,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+3070,"Contemporary dancing, general",Contemporary dancing,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+18356,"Water aerobics, resistance exercises",Water aerobics,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+17105,"Pushing a wheelchair, non-occupational",Pushing a wheelchair,3.8,3.8,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+15300,"Gymnastics, general",Gymnastics,3.8,3.8,Sedang,False,None,Indoor,30-45 menit,3-5 kali/minggu,general_fitness,133.0
+15400,"Horseback riding, walking",Horseback riding,3.8,3.8,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,133.0
+2034,"Circuit training, light effort",Circuit training,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+8045,"Digging, spading, filling garden, composting, light-to-moderate effort",Digging,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+2030,"Calisthenics, light or moderate effort, general (e.g., back exercises), going up & down from floor (Taylor Code 150)",Calisthenics,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+2054,"Resistance (weight) training, multiple exercises, 8-15 reps at varied resistance",Resistance (weight) training,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,122.5
+21055,"Walking, 2.5 mph slowly and carrying objects less than 25 pounds",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+21017,"Standing, child care, only active periods",Standing,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+8025,"Clearing light brush, thinning garden, moderate effort",Clearing light brush,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+21018,"Walk/run play with children, moderate, only active periods",Walk/run play with children,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+18350,"Swimming, treading water, moderate effort,  general ",Swimming,3.5,3.5,Sedang,True,Swimming pool,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+5165,"Walking, moderate effort tasks, non-cleaning (readying to leave, shut/lock doors, close windows, etc.",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+5175,"Walking/running, playing with child(ren), moderate effort, only active periods",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+2045,Curves™ exercise routines in women,Curves™ exercise routines in women,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+21025,"Standing, moderate (e.g., lifting 50 lbs., assembling at fast rate)",Standing,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+5186,"Child care: standing, dressing, bathing, grooming, feeding, occasional lifting of child- light effort",Child care: standing,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+5195,"Standing, bathing dog",Standing,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+4001,"Fishing, general",Fishing,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+5130,"Scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, moderate effort",Scrubbing floors,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+11760,"Tailoring, pressing ",Tailoring,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+2180,"Yoga, Surya Namaskar",Yoga,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+5020,"Cleaning  heavy or major (e.g., wash car, clean garage), moderate effort",Cleaning  heavy or major (e.g.,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+17332,"Walking, Putey walk, Monty Python Ministry of Silly Walks",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+17250,"Walking, for pleasure, work break (Taylor Code xxx)",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+17160,Walking for pleasure (Taylor Code 010),Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+11180,"Farming, feeding small animals ",Farming,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+11210,"Farming, milking by hand, cleaning pails,  moderate effort ",Farming,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+11247,"Fishing, commercial, light effort ",Fishing,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+17070,Descending stairs,Descending stairs,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+5049,"Cooking or food preparation, moderate effort",Cooking or food preparation,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+5054,"carrying groceries, on level ground, walking",carrying groceries,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+11001,"Active workstation, Pedal desk (40 watts)",Active workstation,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+11880,"Soldiers, military marching, unloaded 1.5-2.5 mph",Soldiers,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+15600,"Skydiving, base-jumping, bungee jumping",Skydiving,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+17011,"Walking with a day pack, level ground, assumed in the city",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+16060,"Walking for transportation, 2.8-3.2 mph, level, moderate pace, firm surface",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+11488,"Mail delivery, Electronically Assisted Bicycle",Mail delivery,3.5,3.5,Sedang,False,Bicycle,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+11510,"Orange grove work, picking fruit ",Orange grove work,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+15615,Walking football/soccer,Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+11795,"Walking on job, 2.5 mph, slow speed, carrying  light objects less than 25 lbs ",Walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+8246,"Picking fruit or coffee from trees, moderate effort",Picking fruit or coffee from trees,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+17352,"Walking, treadmill, 2.5 to 2.9 mph (4.0 to 4.7 km/h), 0% grade",Walking,3.5,3.5,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+5021,"Cleaning, mopping, standing, moderate effort",Cleaning,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+1210,"Bicycling, stationary, 25-30 watts, very light to light effort",Cycling,3.5,3.5,Sedang,True,Stationary bike,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+18070,"Canoeing, rowing, for pleasure, general (Taylor Code 250) ",Canoeing,3.5,3.5,Sedang,True,Rowing machine,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+15270,"Golf, miniature, driving range",Golf,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+1018,"Bicycling, leisure 5.5 mph",Cycling,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+15290,"Golf, using power cart (Taylor Code 070)",Golf,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+4040,"Fishing from river bank, standing (Taylor Code 660)",Fishing from river bank,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+4062,"Fishing, dip net, setting net and retrieving fish, general",Fishing,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+15340,Hang gliding,Hang gliding,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+9095,"Standing - arts and crafts, sand painting, carving, weaving, vigorous effort",Standing - arts and crafts,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+9106,Touring/traveling/vacation involving walking,Touring/traveling/vacation involving walking,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+2118,"Arm Ergometer, hand bike, 45W",Arm Ergometer,3.5,3.5,Sedang,False,Bicycle,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+11660,"Patient care, room cleaning/preperation",Patient care,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+10080,"Trombone, standing",Trombone,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+10135,"Marching band, drum major, walking",Marching band,3.5,3.5,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,122.5
+3060,"Caribbean dance (Abakua, Beguine, Bellair, Bongo, Brukin’s, Caribbean Quadrills, Dinki  Mini, Gere, Gumbay, Ibo, Jonkonnu, Kumina,  Oreisha, Jambu)",Caribbean dance (Abakua,3.5,3.5,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,122.5
+20047,"Washing dishes, cleaning kitchen at church",Washing dishes,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+21020,"Standing, light/moderate work (e.g., pack boxes, assemble/repair, set up chairs/furniture)",Standing,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+15160,Croquet,Croquet,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+15670,"Tai chi, qi gong, general",Tai chi,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+5010,"Cleaning, sweeping carpet or floors, general",Cleaning,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+15645,"Sports spectator, very excited, emotional, physically moving",Sports,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+4168,"Activities in a boat, lifting, lowering",Activities in a boat,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+6160,"Painting inside house, wallpapering, scraping paint",Painting inside house,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+5022,"Cleaning windows, washing windows, general",Cleaning windows,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+5026,"Multiple household tasks all at once, moderate effort",Multiple household tasks all at once,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+20060,Cleaning church,Cleaning church,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+12026,Jogging 2.6 to 3.7 mph,Running,3.3,3.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,115.5
+5060,Food shopping with or without a grocery cart; carrying a 10 lb bag; standing or walking,Food shopping with or without a grocery cart; carrying a 10 lb bag; standing or walking,3.3,3.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,115.5
+4115,Hunting birds,Hunting birds,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+5030,"Cleaning, house or cabin, general, moderate effort",Cleaning,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+6060,"Carpentry, finishing, varnishing, or refinishing cabinets or furniture",Carpentry,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+15465,"Lawn bowling, bocce ball, outdoor",Yard Work,3.3,3.3,Sedang,False,None,Outdoor,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+5035,"Kitchen activity, general, (e.g., cooking, washing dishes, cleaning up) moderate effort",Kitchen activity,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+6030,"Automobile repair, light or moderate effort",Automobile repair,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+4123,"Hunting pigs, wild",Hunting pigs,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+11130,"Electrical work (e.g., hook up wire, tapping splicing); plumbing moved to11516 ",Electrical work (e.g.,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+18025,"Canoeing, harvesting wild rice, knocking rice off the stalks ",Canoeing,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+9090,"Standing - arts and crafts, sand painting, carving, weaving, moderate effort",Standing - arts and crafts,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+17382,"Walking, treadmill, downhill (-3% to -12% grade), 2.8 to 3.1 mph",Walking,3.3,3.3,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,115.5
+11610,"Standing, light/moderate effort (e.g., assemble/repair heavy parts, welding, stocking  parts, auto repair, packing boxes, nursing patient care, laundry) ",Standing,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+17180,"Walking, 2.5 mph, downhill",Walking,3.3,3.3,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,115.5
+17412,"Walking, treadmill, downhill (-5% to -25% grade), 2.8 mph, with Nordic Poles",Walking,3.3,3.3,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,115.5
+11418,Laundry worker ,Laundry worker,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+11514,"Painting, house, furniture, moderate effort ",Painting,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+8215,"Trimming shrubs or trees, power cutter, using leaf blower, edger, moderate effort",Trimming shrubs or trees,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+6240,"Wiring, tapping-splicing",Wiring,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+18140,"Sailing, Sunfish/Laser/Hobby Cat, Keel boats, ocean sailing, yachting, leisure ",Sailing,3.3,3.3,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,115.5
+18090,"Diving, springboard or platform ",Diving,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+4152,"Foraging, 10-15kg backpack",Foraging,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+15720,"Volleyball, non-competitive, 6 - 9 member team, general",Volleyball,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+8180,Riding snow blower,Riding snow blower,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+10045,"Drumming (e.g., bongo, conga, benbe), moderate, sitting",Drumming (e.g.,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+10125,"Guitar, rock and roll band, standing",Guitar,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+5147,"Implied walking, putting away household items, moderate effort",Implied walking,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+15410,"Horseshoe pitching, quoits",Horseshoe pitching,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+18120,"Sailing, boat and board sailing, windsurfing, ice sailing, general (Taylor Code 235) ",Sailing,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+4095,"Hunting flying fox, squirrel",Hunting flying fox,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+4064,"Fishing, fishing wheel, setting net and retrieving fish, general",Fishing,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+17349,"Walking, treadmill, 2.0 to 2.4 mph (3.2 to 3.9 km/h), 0% grade",Walking,3.0,3.0,Sedang,True,Treadmill,Indoor,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+8220,"Walking, applying fertilizer or seeding a lawn, push applicator",Walking,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+9080,"Sitting: arts and crafts, carving wood, weaving, spinning wool, moderate effort",Sitting: arts and crafts,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+8251,"Walking, gathering gardening tools",Walking,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+15240,"Frisbee playing, general",Frisbee playing,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+14020,"General, moderate effort",General,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+21070,"Walk/stand combination, for volunteer purposes",Walk/stand combination,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+22200,"Active video game, motion sensing game/using upper body (light to moderate effort)",Active video game,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+15090,Bowling (Taylor Code 390),Bowling (Taylor Code 390),3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+8250,"Implied walking/standing - picking up yard, light, picking flowers or vegetables",Implied walking/standing - picking up yard,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+5140,"Sweeping garage, sidewalk, or outside house",Sweeping garage,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+11006,Airline flight attendant ,Airline flight attendant,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+2056,"Body weight resistance exercises (e.g., squat, lunge, push-up, crunch), general",Body weight resistance exercises (e.g.,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,muscle_tone,105.0
+5181,"Walking and carrying small child, child weighing 15 lbs or more",Walking,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+18365,Water volleyball ,Water volleyball,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+6144,Repairing appliances,Repairing appliances,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+11516,Plumbing activities ,Plumbing activities,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+6167,"Plumbing, general",Plumbing,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+11796,"Walking, gathering things at work, ready to  leave ",Walking,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+6170,Put on and removal of tarp – sailboat,Put on and removal of tarp – sailboat,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+6124,Hammering nails,Hammering nails,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+2300,"Wand exercise, Life-Build-Line",Wand exercise,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+11430,"Machine tooling (e.g., machining, working  sheet metal, machine fitter, operating lathe,  welding) light-to-moderate effort",Machine tooling (e.g.,3.0,3.0,Sedang,False,Exercise machine,Indoor,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+11870,"Working in scene shop, theater actor, backstage  employee ",Working in scene shop,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+11420,Locksmith ,Locksmith,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+15570,Shuffleboard,Shuffleboard,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+5100,"Making bed, changing linens",Making bed,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+5057,Cooking Indian bread or other food on an outside stove,Cooking Indian bread or other food on an outside stove,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+11416,"Lawn keeper, weeding, gas powered",Yard Work,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+11413,Kitchen maid ,Kitchen maid,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+2155,"Yoga, Hot",Yoga,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+5044,"Butchering animals, small",Butchering animals,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+5043,"Vacuuming, general, moderate effort",Vacuuming,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+6040,"Carpentry, general, workshop (Taylor Code 620)",Carpentry,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+11222,"Farming, milking Cows, full milking process, modern milking parlor with milking machines",Farming,3.0,3.0,Sedang,False,Exercise machine,Indoor,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+17165,Walking the dog,Walking,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+6010,Airplane repair,Airplane repair,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+5200,"Elder care, disabled adult, bathing, dressing, moving into and out of bed, only active periods ",Elder care,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+17170,"Walking, 2.5 mph, firm, level surface",Walking,3.0,3.0,Sedang,True,None,Both,30-45 menit,3-5 kali/minggu,cardiovascular_health,105.0
+3040,"Ballroom, slow, examples: waltz, foxtrot, slow dancing, samba tango, rumba, 19th century dance, mambo, cha cha",Ballroom,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
+18220,"Surfing, body or board, general ",Surfing,3.0,3.0,Sedang,False,None,Both,30-45 menit,3-5 kali/minggu,general_fitness,105.0
