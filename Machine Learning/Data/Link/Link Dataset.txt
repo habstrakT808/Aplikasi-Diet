@@ -1,3 +1,5 @@
-Download yang Fondation Foods.csv ye!
-
+DATASET MAKANAN :
 https://fdc.nal.usda.gov/download-datasets
+
+DATASET AKTIVITAS HARIAN :
+https://bulldog-parrot-4zz5.squarespace.com/s/1_2024-Adult-Compendium_1_2024-METs.xlsx
